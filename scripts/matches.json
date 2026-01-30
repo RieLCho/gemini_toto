@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "league": "Premier League",
+    "homeTeam": "Manchester City",
+    "awayTeam": "Chelsea",
+    "time": "Sunday 02:30"
+  },
+  {
+    "id": "2",
+    "league": "La Liga",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Girona",
+    "time": "Sunday 02:30"
+  }
+]

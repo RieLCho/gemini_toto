@@ -1,0 +1,173 @@
+{
+  "lastUpdated": "2026-01-30",
+  "matches": [
+    {
+      "id": "1",
+      "league": "Soccer",
+      "homeTeam": "브라이턴",
+      "awayTeam": "에버턴",
+      "time": "26.02.01 (일) 00:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "2",
+      "league": "Soccer",
+      "homeTeam": "울버햄프",
+      "awayTeam": "본머스",
+      "time": "26.02.01 (일) 00:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "3",
+      "league": "Soccer",
+      "homeTeam": "오사수나",
+      "awayTeam": "비야레알",
+      "time": "26.02.01 (일) 00:15",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "4",
+      "league": "Soccer",
+      "homeTeam": "첼시",
+      "awayTeam": "웨스트햄",
+      "time": "26.02.01 (일) 02:30",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "5",
+      "league": "Soccer",
+      "homeTeam": "레반테",
+      "awayTeam": "AT마드",
+      "time": "26.02.01 (일) 02:30",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "6",
+      "league": "Soccer",
+      "homeTeam": "리버풀",
+      "awayTeam": "뉴캐슬U",
+      "time": "26.02.01 (일) 05:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "7",
+      "league": "Soccer",
+      "homeTeam": "엘체",
+      "awayTeam": "바르셀로",
+      "time": "26.02.01 (일) 05:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "8",
+      "league": "Soccer",
+      "homeTeam": "A빌라",
+      "awayTeam": "브렌트퍼",
+      "time": "26.02.01 (일) 23:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "9",
+      "league": "Soccer",
+      "homeTeam": "맨체스U",
+      "awayTeam": "풀럼",
+      "time": "26.02.01 (일) 23:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "10",
+      "league": "Soccer",
+      "homeTeam": "노팅엄포",
+      "awayTeam": "크리스털",
+      "time": "26.02.01 (일) 23:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "11",
+      "league": "Soccer",
+      "homeTeam": "베티스",
+      "awayTeam": "발렌시아",
+      "time": "26.02.02 (월) 00:15",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "12",
+      "league": "Soccer",
+      "homeTeam": "토트넘",
+      "awayTeam": "맨체스C",
+      "time": "26.02.02 (월) 01:30",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "13",
+      "league": "Soccer",
+      "homeTeam": "헤타페",
+      "awayTeam": "RC셀타",
+      "time": "26.02.02 (월) 02:30",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    },
+    {
+      "id": "14",
+      "league": "Soccer",
+      "homeTeam": "빌바오",
+      "awayTeam": "소시에다",
+      "time": "26.02.02 (월) 05:00",
+      "prediction": {
+        "pick": "Pending",
+        "score": "-:-",
+        "reason": "Waiting for analysis..."
+      }
+    }
+  ]
+}
