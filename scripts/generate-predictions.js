@@ -61,7 +61,7 @@ async function generatePredictions() {
     `;
 
     // 3. Call API with new SDK
-    console.log("Asking Gemini (gemini-1.5-flash) to analyze matches...");
+    console.log("Asking Gemini (gemini-2.0-flash-lite) to analyze matches...");
     
     // Simple retry logic for 429 errors
     const maxRetries = 3;
@@ -70,7 +70,7 @@ async function generatePredictions() {
     for (let i = 0; i < maxRetries; i++) {
         try {
             response = await ai.models.generateContent({
-                model: 'gemini-1.5-flash',
+                model: 'gemini-2.0-flash-lite',
                 contents: prompt,
             });
             break; // Success
