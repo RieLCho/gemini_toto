@@ -61,13 +61,31 @@ async function generatePredictions() {
     `;
 
     // 3. Call API with new SDK
-    console.log("Asking Gemini (gemini-2.0-flash) to analyze matches...");
+    console.log("Asking Gemini (gemini-1.5-flash) to analyze matches...");
     
-    // Note: Implicitly uses GEMINI_API_KEY if not passed in constructor, but we passed it explicitly above.
-    const response = await ai.models.generateContent({
-      model: 'gemini-2.0-flash',
-      contents: prompt,
-    });
+    // Simple retry logic for 429 errors
+    const maxRetries = 3;
+    let response;
+    
+    for (let i = 0; i < maxRetries; i++) {
+        try {
+            response = await ai.models.generateContent({
+                model: 'gemini-1.5-flash',
+                contents: prompt,
+            });
+            break; // Success
+        } catch (err) {
+            if (i === maxRetries - 1) throw err; // Throw on last attempt
+            
+            // Check if it's a 429 or similar transient error
+            if (err.status === 429 || err.code === 429 || (err.message && err.message.includes('429'))) {
+                console.log(`Rate limited (429). Retrying in ${(i + 1) * 2} seconds...`);
+                await new Promise(resolve => setTimeout(resolve, (i + 1) * 2000));
+            } else {
+                throw err; // Throw other errors immediately
+            }
+        }
+    }
 
     // The new SDK response object has a .text property (getter) that extracts the text
     const text = response.text.replace(/```json/g, "").replace(/```/g, "").trim();
