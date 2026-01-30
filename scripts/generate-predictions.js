@@ -1,4 +1,4 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
+import { GoogleGenAI } from "@google/genai";
 import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from 'url';
@@ -7,23 +7,32 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Initialize Gemini
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+// Initialize Gemini with new SDK
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 async function generatePredictions() {
   try {
     // 1. Read matches from the scraped file
     const dataPath = path.join(__dirname, "../src/data/predictions.json");
+    // Ensure file exists before trying to read
+    try {
+      await fs.access(dataPath);
+    } catch {
+      console.log("No data file found at", dataPath);
+      return;
+    }
+
     const existingData = JSON.parse(await fs.readFile(dataPath, "utf-8"));
-    const matches = existingData.matches;
+    const matches = existingData.matches || [];
+
+    if (matches.length === 0) {
+        console.log("No matches found to analyze.");
+        return;
+    }
 
     console.log(`Found ${matches.length} matches in ${dataPath}`);
 
-    // Filter for matches that need prediction (optional, but good for cost saving)
-    // For now, we will regenerate all to ensure freshest analysis.
-
     // 2. Prepare Prompt
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
     const prompt = `
       Act as a professional sports analyst. I will provide a list of upcoming matches.
       For each match, predict the winner (or Draw), a likely score, and a one-sentence reasoning.
@@ -51,16 +60,22 @@ async function generatePredictions() {
       Do not include markdown formatting like \`\`\`json. Just the raw JSON string.
     `;
 
-    // 3. Call API
-    console.log("Asking Gemini to analyze matches...");
-    const result = await model.generateContent(prompt);
-    const response = await result.response;
-    const text = response.text().replace(/```json/g, "").replace(/```/g, "").trim();
+    // 3. Call API with new SDK
+    console.log("Asking Gemini (gemini-2.0-flash) to analyze matches...");
+    
+    // Note: Implicitly uses GEMINI_API_KEY if not passed in constructor, but we passed it explicitly above.
+    const response = await ai.models.generateContent({
+      model: 'gemini-2.0-flash',
+      contents: prompt,
+    });
+
+    // The new SDK response object has a .text property (getter) that extracts the text
+    const text = response.text.replace(/```json/g, "").replace(/```/g, "").trim();
     
     // 4. Validate and Save
     const predictions = JSON.parse(text);
     
-    // Update the existing data object with new predictions but keep other metadata if any
+    // Update the existing data object
     existingData.matches = predictions.matches;
     existingData.lastUpdated = new Date().toISOString().split('T')[0];
 
