@@ -15,9 +15,10 @@
         "venue": "아메리칸익스프레스스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "2-1",
+          "reason": "브라이턴의 최근 홈 경기력과 공격력이 에버턴보다 우수함.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -31,9 +32,10 @@
         "venue": "몰리뉴스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "1-0",
+          "reason": "울버햄튼의 홈 강점과 본머스의 원정 약세를 고려.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -47,9 +49,10 @@
         "venue": "엘사다르스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "무",
+          "score": "1-1",
+          "reason": "두 팀 모두 최근 득점력이 높지 않고 수비 조직력이 탄탄함.",
+          "confidence": 65
         },
         "status": "scheduled"
       },
@@ -63,9 +66,10 @@
         "venue": "스탬포드브릿지",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "0-1",
+          "reason": "첼시의 불안정한 경기력과 웨스트햄의 최근 상승세를 감안.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -79,9 +83,10 @@
         "venue": "시우타트데발렌시아스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "0-2",
+          "reason": "AT마드리드의 강력한 수비와 레반테의 최근 부진.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -95,9 +100,10 @@
         "venue": "안필드",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "3-1",
+          "reason": "리버풀의 막강한 홈 공격력은 뉴캐슬의 수비에 부담.",
+          "confidence": 85
         },
         "status": "scheduled"
       },
@@ -111,9 +117,10 @@
         "venue": "마르티네스발레로스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "0-2",
+          "reason": "바르셀로나의 최근 폼이 좋고 엘체의 수비력 한계.",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -127,9 +134,10 @@
         "venue": "빌라파크",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "2-1",
+          "reason": "아스톤 빌라의 홈 경기력이 좋고 브렌트포드의 최근 원정 성적 부진.",
+          "confidence": 72
         },
         "status": "scheduled"
       },
@@ -143,9 +151,10 @@
         "venue": "올드트래포드",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "2-0",
+          "reason": "맨유의 올드트래포드에서의 강점과 풀럼의 최근 수비 불안.",
+          "confidence": 77
         },
         "status": "scheduled"
       },
@@ -159,9 +168,10 @@
         "venue": "시티그라운드",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "무",
+          "score": "1-1",
+          "reason": "두 팀 모두 최근 득점력이 저조하며 수비에 집중하는 경향.",
+          "confidence": 60
         },
         "status": "scheduled"
       },
@@ -175,9 +185,10 @@
         "venue": "올림피코데라카르투하스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "무",
+          "score": "1-1",
+          "reason": "베티스와 발렌시아 모두 최근 득점력이 들쑥날쑥함.",
+          "confidence": 68
         },
         "status": "scheduled"
       },
@@ -191,9 +202,10 @@
         "venue": "토트넘홋스퍼스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "1-2",
+          "reason": "토트넘의 수비 불안과 맨시티의 압도적인 공격력.",
+          "confidence": 82
         },
         "status": "scheduled"
       },
@@ -207,9 +219,10 @@
         "venue": "콜리세움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "무",
+          "score": "0-0",
+          "reason": "양 팀 모두 득점력이 매우 낮고 수비 위주의 경기 운영.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -223,9 +236,10 @@
         "venue": "산마메스스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "무",
+          "score": "1-1",
+          "reason": "두 팀의 최근 맞대결은 팽팽했으며, 이번 경기 역시 비슷할 것.",
+          "confidence": 73
         },
         "status": "scheduled"
       }
@@ -246,9 +260,10 @@
         "venue": "기아센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "105-112",
+          "reason": "홈 이점을 가진 토론토가 상승세와 조직력에서 우위를 보일 것입니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -262,9 +277,10 @@
         "venue": "매디슨스퀘어가든",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "118-110",
+          "reason": "뉴욕은 홈에서 강한 면모를 보이며, 최근 경기력도 안정적입니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -278,9 +294,10 @@
         "venue": "스무디킹센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "115-108",
+          "reason": "뉴올리언스는 홈 코트 이점을 살려 멤피스의 약한 공격을 막아낼 것입니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -294,9 +311,10 @@
         "venue": "모기지매치업센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "120-115",
+          "reason": "피닉스는 홈에서 강하고, 주축 선수들의 득점력이 뛰어납니다.",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -310,9 +328,10 @@
         "venue": "볼아레나",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "112-109",
+          "reason": "홈 팀 덴버는 탄탄한 조직력과 홈 팬들의 응원을 바탕으로 승리할 것입니다.",
+          "confidence": 72
         },
         "status": "scheduled"
       },
@@ -326,9 +345,10 @@
         "venue": "델타센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "108-116",
+          "reason": "브루클린은 최근 공격력이 살아나며 원정에서도 좋은 성적을 내고 있습니다.",
+          "confidence": 68
         },
         "status": "scheduled"
       },
@@ -342,9 +362,10 @@
         "venue": "체이스센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "125-118",
+          "reason": "골든스테이트는 홈에서 강력하며, 커리의 득점력을 중심으로 승리를 노립니다.",
+          "confidence": 85
         },
         "status": "scheduled"
       },
@@ -358,9 +379,10 @@
         "venue": "창원실내체육관",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "85-78",
+          "reason": "창원 LG는 홈에서 강하고, 수비 조직력이 좋아 울산을 잡아낼 것입니다.",
+          "confidence": 77
         },
         "status": "scheduled"
       },
@@ -374,9 +396,10 @@
         "venue": "부산사직실내체육관",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "88-95",
+          "reason": "서울 삼성은 최근 상승세이며, 부산 원정에서도 충분히 승리할 수 있습니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -390,9 +413,10 @@
         "venue": "잠실학생체육관",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "92-85",
+          "reason": "서울 SK는 홈에서 강하고, 빠른 공수 전환으로 승리를 가져갈 것입니다.",
+          "confidence": 82
         },
         "status": "scheduled"
       },
@@ -406,9 +430,10 @@
         "venue": "스펙트럼센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "108-115",
+          "reason": "샌안토니오는 젊은 팀이지만, 최근 경기력이 좋아지고 있어 승리를 노립니다.",
+          "confidence": 65
         },
         "status": "scheduled"
       },
@@ -422,9 +447,10 @@
         "venue": "게인브릿지필드하우스",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "116-110",
+          "reason": "인디애나는 홈에서 득점력이 폭발하며, 애틀랜타의 수비를 공략할 것입니다.",
+          "confidence": 79
         },
         "status": "scheduled"
       },
@@ -438,9 +464,10 @@
         "venue": "카세야센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "승",
+          "score": "119-112",
+          "reason": "마이애미는 홈에서 강하고, 탄탄한 수비와 짜임새 있는 공격으로 승리할 것입니다.",
+          "confidence": 81
         },
         "status": "scheduled"
       },
@@ -454,9 +481,10 @@
         "venue": "페덱스포럼",
         "gameType": "basketball",
         "prediction": {
-          "pick": "-",
-          "score": "-",
-          "reason": "AI 분석 대기중..."
+          "pick": "패",
+          "score": "105-110",
+          "reason": "미네소타는 최근 상승세이며, 멤피스의 약점을 파고들어 승리할 것입니다.",
+          "confidence": 73
         },
         "status": "scheduled"
       }
