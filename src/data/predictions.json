@@ -1,249 +1,10 @@
 {
   "lastUpdated": "2026-01-31",
   "soccer": {
-    "round": "축구토토 승무패 8회차 [01월31일 토요일 마감]",
+    "round": "축구토토 승무패",
     "gmId": "G011",
-    "gmTs": "260008",
-    "matches": [
-      {
-        "id": "1",
-        "matchNumber": 1,
-        "league": "아메리칸익스프레스스타디움",
-        "homeTeam": "브라이턴",
-        "awayTeam": "에버턴",
-        "datetime": "26.02.01 (일) 00:00",
-        "venue": "아메리칸익스프레스스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-1",
-          "reason": "브라이턴의 최근 홈 경기력과 공격력이 에버턴보다 우수함.",
-          "confidence": 75
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "2",
-        "matchNumber": 2,
-        "league": "몰리뉴스타디움",
-        "homeTeam": "울버햄프",
-        "awayTeam": "본머스",
-        "datetime": "26.02.01 (일) 00:00",
-        "venue": "몰리뉴스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "1-0",
-          "reason": "울버햄튼의 홈 강점과 본머스의 원정 약세를 고려.",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "3",
-        "matchNumber": 3,
-        "league": "엘사다르스타디움",
-        "homeTeam": "오사수나",
-        "awayTeam": "비야레알",
-        "datetime": "26.02.01 (일) 00:15",
-        "venue": "엘사다르스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "두 팀 모두 최근 득점력이 높지 않고 수비 조직력이 탄탄함.",
-          "confidence": 65
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "4",
-        "matchNumber": 4,
-        "league": "스탬포드브릿지",
-        "homeTeam": "첼시",
-        "awayTeam": "웨스트햄",
-        "datetime": "26.02.01 (일) 02:30",
-        "venue": "스탬포드브릿지",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "0-1",
-          "reason": "첼시의 불안정한 경기력과 웨스트햄의 최근 상승세를 감안.",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "5",
-        "matchNumber": 5,
-        "league": "시우타트데발렌시아스타디움",
-        "homeTeam": "레반테",
-        "awayTeam": "AT마드",
-        "datetime": "26.02.01 (일) 02:30",
-        "venue": "시우타트데발렌시아스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "0-2",
-          "reason": "AT마드리드의 강력한 수비와 레반테의 최근 부진.",
-          "confidence": 80
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "6",
-        "matchNumber": 6,
-        "league": "안필드",
-        "homeTeam": "리버풀",
-        "awayTeam": "뉴캐슬U",
-        "datetime": "26.02.01 (일) 05:00",
-        "venue": "안필드",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "3-1",
-          "reason": "리버풀의 막강한 홈 공격력은 뉴캐슬의 수비에 부담.",
-          "confidence": 85
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "7",
-        "matchNumber": 7,
-        "league": "마르티네스발레로스타디움",
-        "homeTeam": "엘체",
-        "awayTeam": "바르셀로",
-        "datetime": "26.02.01 (일) 05:00",
-        "venue": "마르티네스발레로스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "0-2",
-          "reason": "바르셀로나의 최근 폼이 좋고 엘체의 수비력 한계.",
-          "confidence": 78
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "8",
-        "matchNumber": 8,
-        "league": "빌라파크",
-        "homeTeam": "A빌라",
-        "awayTeam": "브렌트퍼",
-        "datetime": "26.02.01 (일) 23:00",
-        "venue": "빌라파크",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-1",
-          "reason": "아스톤 빌라의 홈 경기력이 좋고 브렌트포드의 최근 원정 성적 부진.",
-          "confidence": 72
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "9",
-        "matchNumber": 9,
-        "league": "올드트래포드",
-        "homeTeam": "맨체스U",
-        "awayTeam": "풀럼",
-        "datetime": "26.02.01 (일) 23:00",
-        "venue": "올드트래포드",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-0",
-          "reason": "맨유의 올드트래포드에서의 강점과 풀럼의 최근 수비 불안.",
-          "confidence": 77
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "10",
-        "matchNumber": 10,
-        "league": "시티그라운드",
-        "homeTeam": "노팅엄포",
-        "awayTeam": "크리스털",
-        "datetime": "26.02.01 (일) 23:00",
-        "venue": "시티그라운드",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "두 팀 모두 최근 득점력이 저조하며 수비에 집중하는 경향.",
-          "confidence": 60
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "11",
-        "matchNumber": 11,
-        "league": "올림피코데라카르투하스타디움",
-        "homeTeam": "베티스",
-        "awayTeam": "발렌시아",
-        "datetime": "26.02.02 (월) 00:15",
-        "venue": "올림피코데라카르투하스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "베티스와 발렌시아 모두 최근 득점력이 들쑥날쑥함.",
-          "confidence": 68
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "12",
-        "matchNumber": 12,
-        "league": "토트넘홋스퍼스타디움",
-        "homeTeam": "토트넘",
-        "awayTeam": "맨체스C",
-        "datetime": "26.02.02 (월) 01:30",
-        "venue": "토트넘홋스퍼스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "1-2",
-          "reason": "토트넘의 수비 불안과 맨시티의 압도적인 공격력.",
-          "confidence": 82
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "13",
-        "matchNumber": 13,
-        "league": "콜리세움",
-        "homeTeam": "헤타페",
-        "awayTeam": "RC셀타",
-        "datetime": "26.02.02 (월) 02:30",
-        "venue": "콜리세움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "0-0",
-          "reason": "양 팀 모두 득점력이 매우 낮고 수비 위주의 경기 운영.",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "14",
-        "matchNumber": 14,
-        "league": "산마메스스타디움",
-        "homeTeam": "빌바오",
-        "awayTeam": "소시에다",
-        "datetime": "26.02.02 (월) 05:00",
-        "venue": "산마메스스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "두 팀의 최근 맞대결은 팽팽했으며, 이번 경기 역시 비슷할 것.",
-          "confidence": 73
-        },
-        "status": "scheduled"
-      }
-    ]
+    "gmTs": "260009",
+    "matches": []
   },
   "basketball": {
     "round": "농구토토 승5패 9회차 [01월31일 토요일 마감]",
@@ -261,8 +22,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "105-112",
-          "reason": "홈 이점을 가진 토론토가 상승세와 조직력에서 우위를 보일 것입니다.",
+          "score": "110-115",
+          "reason": "토론토의 최근 상승세와 올랜도의 홈 이점을 상쇄할 공격력 고려",
           "confidence": 75
         },
         "status": "scheduled"
@@ -278,8 +39,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "118-110",
-          "reason": "뉴욕은 홈에서 강한 면모를 보이며, 최근 경기력도 안정적입니다.",
+          "score": "118-112",
+          "reason": "뉴욕의 탄탄한 수비와 홈 이점을 바탕으로 포틀랜드 공략 예상",
           "confidence": 80
         },
         "status": "scheduled"
@@ -296,8 +57,8 @@
         "prediction": {
           "pick": "승",
           "score": "115-108",
-          "reason": "뉴올리언스는 홈 코트 이점을 살려 멤피스의 약한 공격을 막아낼 것입니다.",
-          "confidence": 70
+          "reason": "뉴올리언스의 홈 강점과 득점력을 고려할 때 멤피스 상대로 우세 예상",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -312,9 +73,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "120-115",
-          "reason": "피닉스는 홈에서 강하고, 주축 선수들의 득점력이 뛰어납니다.",
-          "confidence": 78
+          "score": "120-114",
+          "reason": "피닉스의 스타 파워와 클리블랜드의 최근 부진을 고려하여 홈 승리 예상",
+          "confidence": 77
         },
         "status": "scheduled"
       },
@@ -328,10 +89,10 @@
         "venue": "볼아레나",
         "gameType": "basketball",
         "prediction": {
-          "pick": "승",
-          "score": "112-109",
-          "reason": "홈 팀 덴버는 탄탄한 조직력과 홈 팬들의 응원을 바탕으로 승리할 것입니다.",
-          "confidence": 72
+          "pick": "패",
+          "score": "105-110",
+          "reason": "덴버의 홈 이점에도 불구하고 클리퍼스의 최근 경기력과 득점력이 더 좋아 보임",
+          "confidence": 73
         },
         "status": "scheduled"
       },
@@ -345,10 +106,10 @@
         "venue": "델타센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "패",
-          "score": "108-116",
-          "reason": "브루클린은 최근 공격력이 살아나며 원정에서도 좋은 성적을 내고 있습니다.",
-          "confidence": 68
+          "pick": "승",
+          "score": "112-105",
+          "reason": "유타의 홈 경기력과 브루클린의 기복을 고려하면 홈 승리 가능성 높음",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -363,8 +124,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "125-118",
-          "reason": "골든스테이트는 홈에서 강력하며, 커리의 득점력을 중심으로 승리를 노립니다.",
+          "score": "125-115",
+          "reason": "골든스테이트의 홈 경기력과 디트로이트의 약점을 고려할 때 압도적인 승리 예상",
           "confidence": 85
         },
         "status": "scheduled"
@@ -381,8 +142,8 @@
         "prediction": {
           "pick": "승",
           "score": "85-78",
-          "reason": "창원 LG는 홈에서 강하고, 수비 조직력이 좋아 울산을 잡아낼 것입니다.",
-          "confidence": 77
+          "reason": "창원 LG의 홈 강점과 울산 모비스의 최근 원정 부진을 고려한 예측",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -397,9 +158,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "88-95",
-          "reason": "서울 삼성은 최근 상승세이며, 부산 원정에서도 충분히 승리할 수 있습니다.",
-          "confidence": 70
+          "score": "75-82",
+          "reason": "서울 삼성의 최근 상승세와 부산 KCC의 홈에서의 기복을 고려한 예측",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -414,8 +175,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "92-85",
-          "reason": "서울 SK는 홈에서 강하고, 빠른 공수 전환으로 승리를 가져갈 것입니다.",
+          "score": "90-85",
+          "reason": "서울 SK의 홈 강점과 고양 소노의 수비 불안을 고려한 예측",
           "confidence": 82
         },
         "status": "scheduled"
@@ -431,9 +192,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "108-115",
-          "reason": "샌안토니오는 젊은 팀이지만, 최근 경기력이 좋아지고 있어 승리를 노립니다.",
-          "confidence": 65
+          "score": "105-112",
+          "reason": "샌안토니오의 최근 수비력이 개선되고 샬럿의 홈에서도 불안한 경기력 고려",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -448,9 +209,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "116-110",
-          "reason": "인디애나는 홈에서 득점력이 폭발하며, 애틀랜타의 수비를 공략할 것입니다.",
-          "confidence": 79
+          "score": "118-110",
+          "reason": "인디애나의 홈 이점과 빠른 공수 전환 능력을 고려하여 애틀랜타 상대로 우세 예상",
+          "confidence": 76
         },
         "status": "scheduled"
       },
@@ -465,9 +226,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "119-112",
-          "reason": "마이애미는 홈에서 강하고, 탄탄한 수비와 짜임새 있는 공격으로 승리할 것입니다.",
-          "confidence": 81
+          "score": "115-108",
+          "reason": "마이애미의 홈 경기력과 시카고의 부상자들을 고려하여 승리 예상",
+          "confidence": 79
         },
         "status": "scheduled"
       },
@@ -482,9 +243,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "105-110",
-          "reason": "미네소타는 최근 상승세이며, 멤피스의 약점을 파고들어 승리할 것입니다.",
-          "confidence": 73
+          "score": "108-114",
+          "reason": "미네소타의 최근 상승세와 멤피스의 홈 이점을 상쇄할 조직력 고려",
+          "confidence": 72
         },
         "status": "scheduled"
       }
