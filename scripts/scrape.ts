@@ -109,25 +109,64 @@ function getCurrentYearPrefix(): string {
   return String(year).slice(-2);
 }
 
-// 특정 게임의 최신 회차 찾기
+// 현재 주차 기반 회차 번호 추정
+function estimateCurrentRound(): number {
+  const now = new Date();
+  const startOfYear = new Date(now.getFullYear(), 0, 1);
+  const daysSinceStart = Math.floor((now.getTime() - startOfYear.getTime()) / (1000 * 60 * 60 * 24));
+  // 주당 약 2-3회차, 보수적으로 계산
+  return Math.floor(daysSinceStart / 3.5) + 1;
+}
+
+// 특정 회차에 경기가 있는지 확인
+async function checkRoundHasMatches(
+  page: puppeteer.Page,
+  gmId: string,
+  gmTs: string
+): Promise<boolean> {
+  try {
+    const url = `https://www.betman.co.kr/main/mainPage/gamebuy/gameScheduleDetlIFR.do?gmId=${gmId}&gmTs=${gmTs}`;
+    await page.goto(url, {
+      waitUntil: 'networkidle2',
+      timeout: 15000,
+    });
+    await new Promise(resolve => setTimeout(resolve, 2000));
+    
+    const hasMatches = await page.evaluate(() => {
+      const rows = document.querySelectorAll('table tbody tr');
+      return rows.length > 0;
+    });
+    
+    return hasMatches;
+  } catch {
+    return false;
+  }
+}
+
+// 특정 게임의 최신 회차 찾기 (여러 방법 시도)
 async function findLatestRound(
   page: puppeteer.Page,
   gmId: string
 ): Promise<{ gmTs: string; roundName: string } | null> {
+  const yearPrefix = getCurrentYearPrefix();
+  const estimatedRound = estimateCurrentRound();
+  
+  // 방법 1: betman.co.kr에서 직접 조회 시도
   try {
     const url = `https://www.betman.co.kr/main/mainPage/gamebuy/gameScheduleDetlIFR.do?gmId=${gmId}`;
     await page.goto(url, {
       waitUntil: 'networkidle2',
-      timeout: 30000,
+      timeout: 20000,
     });
 
     await new Promise(resolve => setTimeout(resolve, 3000));
 
     const roundInfo = await page.evaluate(() => {
       const select = document.querySelector('select') as HTMLSelectElement;
-      if (!select) return null;
+      if (!select || select.options.length === 0) return null;
       
       const options = Array.from(select.options);
+      // 마감되지 않은 회차 찾기
       for (const opt of options) {
         const value = opt.value;
         const text = opt.textContent?.trim() || '';
@@ -135,7 +174,7 @@ async function findLatestRound(
           return { gmTs: value, roundName: text };
         }
       }
-      // 마감되지 않은 게 없으면 첫 번째 옵션
+      // 마감된 것이라도 첫 번째 옵션 반환
       for (const opt of options) {
         const value = opt.value;
         const text = opt.textContent?.trim() || '';
@@ -146,11 +185,37 @@ async function findLatestRound(
       return null;
     });
 
-    return roundInfo;
+    if (roundInfo) {
+      console.log(`✅ 회차 조회 성공: ${roundInfo.roundName}`);
+      return roundInfo;
+    }
   } catch (error) {
-    console.error(`회차 조회 실패 (${gmId}):`, error);
-    return null;
+    console.log(`⚠️ 회차 조회 실패 (${gmId}), 폴백 방식 시도...`);
   }
+
+  // 방법 2: 추정 회차부터 순차적으로 시도
+  console.log(`🔍 추정 회차 ${estimatedRound}부터 탐색 시작...`);
+  
+  for (let offset = 0; offset <= 5; offset++) {
+    for (const delta of [0, 1, -1, 2, -2]) {
+      const tryRound = estimatedRound + offset + delta;
+      if (tryRound <= 0) continue;
+      
+      const gmTs = `${yearPrefix}${String(tryRound).padStart(4, '0')}`;
+      const hasMatches = await checkRoundHasMatches(page, gmId, gmTs);
+      
+      if (hasMatches) {
+        console.log(`✅ 유효한 회차 발견: ${tryRound}회차 (${gmTs})`);
+        return { gmTs, roundName: `${tryRound}회차` };
+      }
+    }
+  }
+
+  // 방법 3: 최근 회차로 폴백
+  const fallbackRound = estimatedRound;
+  const fallbackGmTs = `${yearPrefix}${String(fallbackRound).padStart(4, '0')}`;
+  console.log(`⚠️ 회차 탐색 실패, 기본값 사용: ${fallbackRound}회차`);
+  return { gmTs: fallbackGmTs, roundName: `${fallbackRound}회차` };
 }
 
 // 특정 게임의 경기 목록 스크래핑
