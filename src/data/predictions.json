@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06",
+  "lastUpdated": "2026-02-07",
   "soccer": {
     "round": "축구토토 승무패 11회차 [02월14일 토요일 마감]",
     "gmId": "G011",
@@ -17,8 +17,8 @@
         "prediction": {
           "pick": "무",
           "score": "1-1",
-          "reason": "코모는 홈에서 강하지만 피오렌티나의 최근 폼이 좋아 무승부를 예상합니다.",
-          "confidence": 60
+          "reason": "코모는 홈에서 강하지만 피오렌티나의 최근 상승세가 무승부를 만들 것입니다.",
+          "confidence": 65
         },
         "status": "scheduled"
       },
@@ -33,8 +33,8 @@
         "gameType": "soccer",
         "prediction": {
           "pick": "패",
-          "score": "1-2",
-          "reason": "AT마드리드의 탄탄한 수비력과 라요의 최근 홈 부진을 고려했습니다.",
+          "score": "0-1",
+          "reason": "AT마드리드의 탄탄한 수비와 라요의 최근 득점력 부진이 예상됩니다.",
           "confidence": 70
         },
         "status": "scheduled"
@@ -49,10 +49,10 @@
         "venue": "올림피코로마스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "패",
-          "score": "1-2",
-          "reason": "아탈란타의 공격력이 라치오의 수비보다 우위에 있다고 판단됩니다.",
-          "confidence": 65
+          "pick": "무",
+          "score": "2-2",
+          "reason": "두 팀 모두 공격력이 좋으나 수비 불안이 있어 난타전 끝에 무승부가 예상됩니다.",
+          "confidence": 60
         },
         "status": "scheduled"
       },
@@ -67,9 +67,9 @@
         "gameType": "soccer",
         "prediction": {
           "pick": "승",
-          "score": "2-1",
-          "reason": "세비야의 최근 홈 경기력 반등과 알라베스의 원정 약점을 고려했습니다.",
-          "confidence": 60
+          "score": "2-0",
+          "reason": "세비야의 홈 이점과 알라베스의 최근 부진을 고려하면 승리가 예상됩니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -84,8 +84,8 @@
         "gameType": "soccer",
         "prediction": {
           "pick": "승",
-          "score": "2-0",
-          "reason": "인테르의 압도적인 최근 폼과 홈 이점을 무시할 수 없습니다.",
+          "score": "1-0",
+          "reason": "인테르는 홈에서 강력하며, 유벤투스와의 중요한 경기에서 승리할 가능성이 높습니다.",
           "confidence": 80
         },
         "status": "scheduled"
@@ -102,7 +102,7 @@
         "prediction": {
           "pick": "승",
           "score": "2-1",
-          "reason": "레알 마드리드의 홈 강세와 소시에다드의 기복 있는 경기력을 예상합니다.",
+          "reason": "레알 마드리드는 홈에서 강하며, 소시에다드의 최근 상승세에도 불구하고 승리를 거둘 것입니다.",
           "confidence": 75
         },
         "status": "scheduled"
@@ -119,8 +119,8 @@
         "prediction": {
           "pick": "무",
           "score": "1-1",
-          "reason": "양 팀 모두 득점력보다는 수비 조직력이 좋은 편이라 무승부 가능성이 있습니다.",
-          "confidence": 55
+          "reason": "우디네세와 사수올로 모두 승점 3점이 절실한 상황으로 팽팽한 경기가 예상됩니다.",
+          "confidence": 60
         },
         "status": "scheduled"
       },
@@ -136,8 +136,8 @@
         "prediction": {
           "pick": "패",
           "score": "0-1",
-          "reason": "제노아의 최근 상승세와 크레모네세의 부진한 홈 성적을 고려했습니다.",
-          "confidence": 60
+          "reason": "제노아의 최근 폼이 크레모네세보다 좋으며, 원정에서도 승점을 가져올 수 있습니다.",
+          "confidence": 65
         },
         "status": "scheduled"
       },
@@ -151,10 +151,10 @@
         "venue": "엔니오타르디니스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "승",
-          "score": "2-1",
-          "reason": "파르마의 홈 이점과 엘라스의 최근 원정 부진을 고려하여 승리를 예상합니다.",
-          "confidence": 55
+          "pick": "무",
+          "score": "1-1",
+          "reason": "파르마의 홈 강점과 엘라스의 끈끈한 경기력이 무승부로 이어질 가능성이 높습니다.",
+          "confidence": 60
         },
         "status": "scheduled"
       },
@@ -169,9 +169,9 @@
         "gameType": "soccer",
         "prediction": {
           "pick": "무",
-          "score": "1-1",
-          "reason": "헤타페의 홈 강점과 비야레알의 수비력을 고려하면 팽팽한 경기가 예상됩니다.",
-          "confidence": 60
+          "score": "0-0",
+          "reason": "두 팀 모두 득점력이 좋지 않아 매우 팽팽하고 낮은 점수의 경기가 예상됩니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -185,9 +185,9 @@
         "venue": "올림피코그란데토리노스타디움",
         "gameType": "soccer",
         "prediction": {
-          "pick": "패",
-          "score": "1-2",
-          "reason": "볼로냐의 최근 폼이 토리노보다 좋으며, 원정에서도 득점을 기대할 수 있습니다.",
+          "pick": "무",
+          "score": "1-1",
+          "reason": "토리노와 볼로냐 모두 중위권에서 팽팽한 승부를 펼치고 있어 무승부가 예상됩니다.",
           "confidence": 65
         },
         "status": "scheduled"
@@ -203,8 +203,8 @@
         "gameType": "soccer",
         "prediction": {
           "pick": "패",
-          "score": "0-1",
-          "reason": "발렌시아의 최근 상승세와 레반테의 홈 경기력 약점을 고려했습니다.",
+          "score": "1-2",
+          "reason": "발렌시아의 최근 경기력이 레반테보다 우수하며, 승점 3점을 가져갈 것입니다.",
           "confidence": 70
         },
         "status": "scheduled"
@@ -221,7 +221,7 @@
         "prediction": {
           "pick": "승",
           "score": "2-1",
-          "reason": "나폴리의 홈 경기력과 AS 로마의 최근 부진을 고려하여 승리를 예상합니다.",
+          "reason": "나폴리의 홈 이점과 AS 로마의 최근 수비 불안을 고려하면 승리가 예상됩니다.",
           "confidence": 75
         },
         "status": "scheduled"
@@ -238,8 +238,8 @@
         "prediction": {
           "pick": "무",
           "score": "1-1",
-          "reason": "양 팀 모두 최근 득점력이 높지 않고 팽팽한 경기를 펼칠 것으로 보입니다.",
-          "confidence": 55
+          "reason": "두 팀 모두 최근 득점력이 들쭉날쭉하여 팽팽한 경기가 예상됩니다.",
+          "confidence": 60
         },
         "status": "scheduled"
       },
@@ -255,8 +255,8 @@
         "prediction": {
           "pick": "패",
           "score": "0-1",
-          "reason": "빌바오의 최근 폼과 오비에도의 홈에서의 약세를 고려했습니다.",
-          "confidence": 60
+          "reason": "빌바오의 최근 좋은 폼과 오비에도의 홈에서의 불안한 경기력이 예상됩니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -272,8 +272,8 @@
         "prediction": {
           "pick": "승",
           "score": "2-1",
-          "reason": "슈투트가르트의 최근 공격력이 좋고 쾰른의 수비 불안을 파고들 것으로 예상됩니다.",
-          "confidence": 70
+          "reason": "슈투트가르트의 최근 상승세와 쾰른의 원정 약점을 고려하여 승리가 예상됩니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -289,8 +289,8 @@
         "prediction": {
           "pick": "승",
           "score": "1-0",
-          "reason": "아우크스부르크의 홈 강점과 하이덴하임의 원정 약점을 고려하여 승리를 예상합니다.",
-          "confidence": 60
+          "reason": "아우크스부르크는 홈에서 강한 모습을 보이며, 하이덴하임 상대로 승리할 것입니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -305,9 +305,9 @@
         "gameType": "soccer",
         "prediction": {
           "pick": "승",
-          "score": "3-1",
-          "reason": "라이프치히의 막강한 홈 경기력과 쾰른의 수비 불안을 고려했습니다.",
-          "confidence": 75
+          "score": "2-0",
+          "reason": "라이프치히는 홈에서 강력하며, 볼프스부르크를 상대로 압도적인 승리를 거둘 것입니다.",
+          "confidence": 85
         },
         "status": "scheduled"
       }
@@ -329,8 +329,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "115-108",
-          "reason": "보스턴 셀틱스의 홈 경기력과 최근 상승세를 고려했을 때 승리할 가능성이 높습니다.",
+          "score": "115-105",
+          "reason": "보스턴 셀틱스는 홈에서 강하며, 마이애미 히트의 최근 기세가 주춤하고 있습니다.",
           "confidence": 85
         },
         "status": "scheduled"
@@ -347,8 +347,8 @@
         "prediction": {
           "pick": "패",
           "score": "102-110",
-          "reason": "뉴욕 닉스의 최근 경기력과 수비 조직력을 고려하면 디트로이트 피스튼스가 홈에서도 어려움을 겪을 것으로 보입니다.",
-          "confidence": 70
+          "reason": "뉴욕 닉스는 디트로이트 피스톤스보다 공수 밸런스가 좋고, 원정에서도 꾸준한 경기력을 보입니다.",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -363,9 +363,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "120-110",
-          "reason": "밀워키 벅스는 홈에서 강하며, 야니스 아데토쿤보의 활약을 바탕으로 승리할 것으로 예상됩니다.",
-          "confidence": 90
+          "score": "120-112",
+          "reason": "밀워키 벅스는 홈에서 강력한 모습을 보이며, 인디애나 페이서스를 상대로 우세할 것으로 예상됩니다.",
+          "confidence": 82
         },
         "status": "scheduled"
       },
@@ -380,8 +380,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "105-118",
-          "reason": "멤피스 그리즐리스의 최근 득점력이 뛰어나며, 포틀랜드 트레일 블레이저스가 홈에서도 수비에서 약점을 보일 수 있습니다.",
+          "score": "108-118",
+          "reason": "멤피스 그리즐리스는 포틀랜드 트레일 블레이저스보다 최근 경기력이 좋고, 득점력이 뛰어납니다.",
           "confidence": 75
         },
         "status": "scheduled"
@@ -398,8 +398,8 @@
         "prediction": {
           "pick": "승",
           "score": "85-78",
-          "reason": "안양 정관장의 홈 이점과 탄탄한 조직력을 고려하면 부산 KCC를 상대로 승리할 가능성이 높습니다.",
-          "confidence": 80
+          "reason": "안양 정관장은 홈 이점을 살려 부산 KCC를 상대로 승리할 가능성이 높습니다.",
+          "confidence": 88
         },
         "status": "scheduled"
       },
@@ -414,9 +414,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "88-95",
-          "reason": "KT 소닉붐의 최근 상승세와 공격력을 고려할 때, 고양 소노가 홈에서 쉽지 않은 경기를 할 것으로 보입니다.",
-          "confidence": 70
+          "score": "90-95",
+          "reason": "KT 소닉붐은 고양 소노보다 최근 상승세이며, 원정에서도 득점력이 좋습니다.",
+          "confidence": 79
         },
         "status": "scheduled"
       },
@@ -431,9 +431,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "75-85",
-          "reason": "원주 DB의 최근 경기력이 매우 좋으며, 서울 삼성의 불안정한 경기력을 고려할 때 원정에서도 우위를 점할 것으로 예상됩니다.",
-          "confidence": 85
+          "score": "88-98",
+          "reason": "원주 DB는 서울 삼성보다 전력이 우수하며, 안정적인 경기 운영으로 승리할 것입니다.",
+          "confidence": 83
         },
         "status": "scheduled"
       },
@@ -448,8 +448,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "100-115",
-          "reason": "워싱턴 위저즈는 원정에서도 공격력이 강하며, 브루클린 네츠의 최근 경기력을 고려할 때 승리를 가져갈 가능성이 높습니다.",
+          "score": "105-115",
+          "reason": "워싱턴 위저즈는 브루클린 네츠보다 최근 공격력이 살아났고, 외곽슛이 좋습니다.",
           "confidence": 70
         },
         "status": "scheduled"
@@ -466,8 +466,8 @@
         "prediction": {
           "pick": "승",
           "score": "118-110",
-          "reason": "오클라호마 시티 썬더는 홈에서 매우 강하며, 최근 좋은 폼을 유지하고 있어 휴스턴 로키츠를 상대로 승리할 것으로 보입니다.",
-          "confidence": 85
+          "reason": "오클라호마 시티 썬더는 홈에서 강하고, 휴스턴 로케츠의 최근 수비가 불안정합니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -482,9 +482,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "105-112",
-          "reason": "댈러스 매버릭스는 공격력이 뛰어나며, 샌안토니오 스퍼스의 수비 약점을 파고들어 승리할 가능성이 높습니다.",
-          "confidence": 75
+          "score": "110-120",
+          "reason": "댈러스 매버릭스는 샌안토니오 스퍼스보다 최근 득점력이 폭발적이며, 외곽슛 위주의 공격이 효과적입니다.",
+          "confidence": 81
         },
         "status": "scheduled"
       },
@@ -499,9 +499,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "110-105",
-          "reason": "애틀랜타 호크스는 홈에서 득점력이 좋으며, 샬럿 호네츠를 상대로 근소한 차이로 승리할 것으로 예상됩니다.",
-          "confidence": 70
+          "score": "112-108",
+          "reason": "애틀랜타 호크스는 홈에서 경기를 치르며, 샬럿 호네츠보다 공격력이 좋습니다.",
+          "confidence": 77
         },
         "status": "scheduled"
       },
@@ -516,9 +516,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "108-115",
-          "reason": "덴버 너기츠는 원정에서도 꾸준한 경기력을 보이며, 시카고 불스의 최근 수비 불안을 고려할 때 승리할 것으로 보입니다.",
-          "confidence": 80
+          "score": "100-112",
+          "reason": "덴버 너기츠는 시카고 불스보다 탄탄한 조직력과 안정적인 경기 운영을 자랑합니다.",
+          "confidence": 86
         },
         "status": "scheduled"
       },
@@ -532,10 +532,10 @@
         "venue": "크립토닷컴아레나",
         "gameType": "basketball",
         "prediction": {
-          "pick": "패",
-          "score": "110-118",
-          "reason": "골든스테이트 워리어스는 원정에서도 강력하며, LA 레이커스의 최근 불안정한 경기력을 고려할 때 승리할 가능성이 높습니다.",
-          "confidence": 85
+          "pick": "승",
+          "score": "118-115",
+          "reason": "LA 레이커스는 홈에서 강하고, 골든스테이트 워리어스의 최근 수비가 불안정합니다.",
+          "confidence": 84
         },
         "status": "scheduled"
       },
@@ -549,10 +549,10 @@
         "venue": "모기지매치업센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "승",
-          "score": "115-110",
-          "reason": "피닉스 선즈는 홈에서 득점력이 좋으며, 필라델피아 세븐티식서스의 최근 수비 난조를 고려할 때 승리할 것으로 예상됩니다.",
-          "confidence": 75
+          "pick": "패",
+          "score": "105-118",
+          "reason": "필라델피아 세븐티식서스는 피닉스 선즈보다 최근 득점력이 좋고, 주전들의 활약이 꾸준합니다.",
+          "confidence": 79
         },
         "status": "scheduled"
       }
