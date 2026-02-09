@@ -1,472 +1,165 @@
 {
-  "lastUpdated": "2026-02-08",
+  "lastUpdated": "2026-02-09",
   "soccer": {
-    "round": "축구토토 승무패 11회차 [02월14일 토요일 마감]",
+    "round": "축구토토 승무패",
     "gmId": "G011",
-    "gmTs": "260011",
-    "matches": [
-      {
-        "id": "1",
-        "matchNumber": 1,
-        "league": "주세페시니갈리아스타디움",
-        "homeTeam": "코모1907",
-        "awayTeam": "피오렌티",
-        "datetime": "26.02.14 (토) 23:00",
-        "venue": "주세페시니갈리아스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "코모는 홈에서 강하지만 피오렌티나의 최근 상승세가 무섭습니다. 팽팽한 승부가 예상됩니다.",
-          "confidence": 60
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "2",
-        "matchNumber": 2,
-        "league": "바예카스스타디움",
-        "homeTeam": "라요",
-        "awayTeam": "AT마드",
-        "datetime": "26.02.16 (월) 00:15",
-        "venue": "바예카스스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "0-1",
-          "reason": "라요 바예카노의 최근 득점력 부진과 AT 마드리드의 탄탄한 수비를 고려할 때, 원정팀의 근소한 우세가 예상됩니다.",
-          "confidence": 65
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "3",
-        "matchNumber": 3,
-        "league": "올림피코로마스타디움",
-        "homeTeam": "라치오",
-        "awayTeam": "아탈란타",
-        "datetime": "26.02.15 (일) 02:00",
-        "venue": "올림피코로마스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "1-2",
-          "reason": "라치오는 홈에서 강하지만, 아탈란타의 최근 득점력과 조직력이 좋습니다. 치열한 접전 끝에 아탈란타가 승리할 가능성이 있습니다.",
-          "confidence": 55
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "4",
-        "matchNumber": 4,
-        "league": "라몬산체스피스후안",
-        "homeTeam": "세비야",
-        "awayTeam": "알라베스",
-        "datetime": "26.02.15 (일) 02:30",
-        "venue": "라몬산체스피스후안",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-0",
-          "reason": "세비야는 홈에서 강한 면모를 보이며, 알라베스의 최근 원정 성적이 좋지 않습니다. 세비야의 승리가 예상됩니다.",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "5",
-        "matchNumber": 5,
-        "league": "주세페메아차스타디움",
-        "homeTeam": "인테르",
-        "awayTeam": "유벤투스",
-        "datetime": "26.02.15 (일) 04:45",
-        "venue": "주세페메아차스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "인테르와 유벤투스의 최근 흐름이 좋고, 두 팀 모두 득점력이 준수합니다. 치열한 빅매치가 될 것입니다.",
-          "confidence": 75
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "6",
-        "matchNumber": 6,
-        "league": "산티아고베르나베우스타디움",
-        "homeTeam": "레알마드",
-        "awayTeam": "소시에다",
-        "datetime": "26.02.15 (일) 05:00",
-        "venue": "산티아고베르나베우스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-1",
-          "reason": "레알 마드리드는 홈에서 압도적인 모습을 보이며, 소시에다드는 최근 원정에서 다소 기복을 보입니다. 레알 마드리드의 승리가 유력합니다.",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "7",
-        "matchNumber": 7,
-        "league": "블루에너지스타디움",
-        "homeTeam": "우디네세",
-        "awayTeam": "사수올로",
-        "datetime": "26.02.15 (일) 20:30",
-        "venue": "블루에너지스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "우디네세와 사수올로는 비슷한 전력으로, 홈 이점에도 불구하고 팽팽한 경기가 예상됩니다.",
-          "confidence": 55
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "8",
-        "matchNumber": 8,
-        "league": "조반니치니스타디움",
-        "homeTeam": "크레모네",
-        "awayTeam": "제노아",
-        "datetime": "26.02.15 (일) 23:00",
-        "venue": "조반니치니스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "0-1",
-          "reason": "크레모네세는 최근 득점력이 매우 저조하며, 제노아는 수비 조직력이 좋습니다. 제노아의 근소한 승리가 예상됩니다.",
-          "confidence": 60
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "9",
-        "matchNumber": 9,
-        "league": "엔니오타르디니스타디움",
-        "homeTeam": "파르마",
-        "awayTeam": "엘라스",
-        "datetime": "26.02.15 (일) 23:00",
-        "venue": "엔니오타르디니스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "2-2",
-          "reason": "파르마와 엘라스 베로나는 득점력은 좋으나 수비에 약점을 보입니다. 난타전이 될 가능성이 높습니다.",
-          "confidence": 50
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "10",
-        "matchNumber": 10,
-        "league": "콜리세움",
-        "homeTeam": "헤타페",
-        "awayTeam": "비야레알",
-        "datetime": "26.02.15 (일) 00:15",
-        "venue": "콜리세움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "헤타페는 홈에서 강하지만, 비야레알의 최근 흐름이 좋습니다. 팽팽한 접전이 예상됩니다.",
-          "confidence": 60
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "11",
-        "matchNumber": 11,
-        "league": "올림피코그란데토리노스타디움",
-        "homeTeam": "토리노",
-        "awayTeam": "볼로냐",
-        "datetime": "26.02.16 (월) 02:00",
-        "venue": "올림피코그란데토리노스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "토리노와 볼로냐 모두 최근 득점력이 높지 않으며, 팽팽한 경기가 예상됩니다.",
-          "confidence": 55
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "12",
-        "matchNumber": 12,
-        "league": "시우타트데발렌시아스타디움",
-        "homeTeam": "레반테",
-        "awayTeam": "발렌시아",
-        "datetime": "26.02.16 (월) 02:30",
-        "venue": "시우타트데발렌시아스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "1-2",
-          "reason": "발렌시아는 최근 폼이 좋으며, 레반테는 홈에서도 기복을 보입니다. 발렌시아가 승리할 가능성이 높습니다.",
-          "confidence": 65
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "13",
-        "matchNumber": 13,
-        "league": "디에고아르만도마라도나스타디움",
-        "homeTeam": "나폴리",
-        "awayTeam": "AS로마",
-        "datetime": "26.02.16 (월) 04:45",
-        "venue": "디에고아르만도마라도나스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "나폴리와 AS 로마 모두 최근 득점력이 기복을 보이며, 팽팽한 중위권 대결이 예상됩니다.",
-          "confidence": 60
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "14",
-        "matchNumber": 14,
-        "league": "마요르카손모시스타디움",
-        "homeTeam": "마요르카",
-        "awayTeam": "베티스",
-        "datetime": "26.02.16 (월) 05:00",
-        "venue": "마요르카손모시스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-1",
-          "reason": "마요르카는 홈에서 강점을 보이며, 베티스는 원정에서 다소 약한 모습을 보입니다. 마요르카의 승리가 예상됩니다.",
-          "confidence": 65
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "15",
-        "matchNumber": 15,
-        "league": "카를로스타르티에레스타디움",
-        "homeTeam": "오비에도",
-        "awayTeam": "빌바오",
-        "datetime": "26.02.15 (일) 22:00",
-        "venue": "카를로스타르티에레스타디움",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "패",
-          "score": "0-1",
-          "reason": "오비에도는 최근 득점력이 부족하고, 빌바오는 수비가 탄탄합니다. 빌바오의 근소한 승리가 예상됩니다.",
-          "confidence": 60
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "16",
-        "matchNumber": 16,
-        "league": "MHP아레나",
-        "homeTeam": "슈투트가",
-        "awayTeam": "쾰른",
-        "datetime": "26.02.15 (일) 02:30",
-        "venue": "MHP아레나",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-1",
-          "reason": "슈투트가르트는 홈에서 강하며, 쾰른은 최근 원정 성적이 좋지 않습니다. 슈투트가르트의 승리가 예상됩니다.",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "17",
-        "matchNumber": 17,
-        "league": "WWK아레나",
-        "homeTeam": "아우크스",
-        "awayTeam": "하이덴하",
-        "datetime": "26.02.15 (일) 23:30",
-        "venue": "WWK아레나",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "무",
-          "score": "1-1",
-          "reason": "아우크스부르크와 하이덴하임은 비슷한 전력으로, 팽팽한 경기가 예상됩니다.",
-          "confidence": 55
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "18",
-        "matchNumber": 18,
-        "league": "레드불아레나라이프치히",
-        "homeTeam": "라이프치",
-        "awayTeam": "볼프스부",
-        "datetime": "26.02.16 (월) 01:30",
-        "venue": "레드불아레나라이프치히",
-        "gameType": "soccer",
-        "prediction": {
-          "pick": "승",
-          "score": "2-0",
-          "reason": "라이프치히는 홈에서 강하며, 볼프스부르크는 최근 득점력이 저조합니다. 라이프치히의 승리가 유력합니다.",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      }
-    ]
+    "gmTs": "260012",
+    "matches": []
   },
   "basketball": {
-    "round": "농구토토 승5패 11회차 [02월07일 토요일 마감]",
+    "round": "농구토토 승5패 12회차 [02월11일 수요일 마감]",
     "gmId": "G027",
-    "gmTs": "260011",
+    "gmTs": "260012",
     "matches": [
       {
         "id": "1",
         "matchNumber": 1,
-        "league": "TD가든",
-        "homeTeam": "보스셀틱",
-        "awayTeam": "마이히트",
-        "datetime": "26.02.07 (토) 09:30",
-        "venue": "TD가든",
-        "gameType": "basketball",
-        "prediction": {
-          "pick": "승",
-          "score": "115-108",
-          "reason": "보스턴 셀틱스의 홈 경기력과 최근 상승세 고려",
-          "confidence": 85
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "2",
-        "matchNumber": 2,
-        "league": "리틀시저스아레나",
-        "homeTeam": "디트피스",
-        "awayTeam": "뉴욕닉스",
-        "datetime": "26.02.07 (토) 09:30",
-        "venue": "리틀시저스아레나",
-        "gameType": "basketball",
-        "prediction": {
-          "pick": "패",
-          "score": "102-110",
-          "reason": "디트로이트 피스톤스의 최근 부진과 뉴욕 닉스의 안정적인 경기력",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "3",
-        "matchNumber": 3,
-        "league": "파이서브포럼",
-        "homeTeam": "밀워벅스",
-        "awayTeam": "인디페이",
-        "datetime": "26.02.07 (토) 10:00",
-        "venue": "파이서브포럼",
-        "gameType": "basketball",
-        "prediction": {
-          "pick": "승",
-          "score": "120-112",
-          "reason": "밀워키 벅스의 홈 강점과 야니스 아데토쿤보의 활약 기대",
-          "confidence": 80
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "4",
-        "matchNumber": 4,
-        "league": "모다센터",
-        "homeTeam": "포틀트레",
-        "awayTeam": "멤피그리",
-        "datetime": "26.02.07 (토) 12:00",
-        "venue": "모다센터",
-        "gameType": "basketball",
-        "prediction": {
-          "pick": "패",
-          "score": "108-118",
-          "reason": "포틀랜드 트레일 블레이저스의 약세와 멤피스 그리즐리스의 조직력",
-          "confidence": 65
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "5",
-        "matchNumber": 5,
-        "league": "안양정관장아레나",
-        "homeTeam": "안양정관",
-        "awayTeam": "부산KCC",
-        "datetime": "26.02.07 (토) 14:00",
-        "venue": "안양정관장아레나",
-        "gameType": "basketball",
-        "prediction": {
-          "pick": "승",
-          "score": "88-82",
-          "reason": "안양 정관장의 홈 이점과 최근 경기력 상승",
-          "confidence": 75
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "6",
-        "matchNumber": 6,
-        "league": "고양소노아레나",
-        "homeTeam": "고양소노",
-        "awayTeam": "KT소닉붐",
-        "datetime": "26.02.07 (토) 14:00",
-        "venue": "고양소노아레나",
-        "gameType": "basketball",
-        "prediction": {
-          "pick": "패",
-          "score": "90-95",
-          "reason": "KT 소닉붐의 최근 상승세와 고양 소노의 홈 경기 부담",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "7",
-        "matchNumber": 7,
-        "league": "잠실실내체육관",
-        "homeTeam": "서울삼성",
-        "awayTeam": "원주DB",
-        "datetime": "26.02.07 (토) 16:30",
-        "venue": "잠실실내체육관",
-        "gameType": "basketball",
-        "prediction": {
-          "pick": "패",
-          "score": "85-93",
-          "reason": "원주 DB의 짜임새 있는 공격과 서울 삼성의 불안정한 경기력",
-          "confidence": 70
-        },
-        "status": "scheduled"
-      },
-      {
-        "id": "8",
-        "matchNumber": 8,
-        "league": "바클레이스센터",
-        "homeTeam": "브루네츠",
-        "awayTeam": "워싱위저",
-        "datetime": "26.02.08 (일) 05:00",
-        "venue": "바클레이스센터",
+        "league": "도요타센터",
+        "homeTeam": "휴스로케",
+        "awayTeam": "LA클리퍼",
+        "datetime": "26.02.11 (수) 10:00",
+        "venue": "도요타센터",
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
           "score": "105-115",
-          "reason": "워싱턴 위저즈의 최근 상승세와 브루클린 네츠의 홈 경기력",
+          "reason": "홈팀 휴스턴은 최근 폼이 좋지 않으며, 클리퍼스는 강팀입니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "2",
+        "matchNumber": 2,
+        "league": "모기지매치업센터",
+        "homeTeam": "피닉선즈",
+        "awayTeam": "댈러매버",
+        "datetime": "26.02.11 (수) 11:00",
+        "venue": "모기지매치업센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-102",
+          "reason": "피닉스는 홈에서 강하고, 댈러스는 원정에서 약한 모습을 보입니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "3",
+        "matchNumber": 3,
+        "league": "크립토닷컴아레나",
+        "homeTeam": "LA레이커",
+        "awayTeam": "샌안스퍼",
+        "datetime": "26.02.11 (수) 12:30",
+        "venue": "크립토닷컴아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "112-108",
+          "reason": "레이커스는 홈 경기력이 좋고, 샌안토니오는 리빌딩 중입니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "4",
+        "matchNumber": 4,
+        "league": "잠실학생체육관",
+        "homeTeam": "서울SK",
+        "awayTeam": "고양소노",
+        "datetime": "26.02.11 (수) 19:00",
+        "venue": "잠실학생체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "85-78",
+          "reason": "서울SK는 홈에서 강하고, 고양소노는 최근 연패 중입니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "5",
+        "matchNumber": 5,
+        "league": "스펙트럼센터",
+        "homeTeam": "샬럿호네",
+        "awayTeam": "애틀호크",
+        "datetime": "26.02.12 (목) 09:00",
+        "venue": "스펙트럼센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-118",
+          "reason": "애틀랜타는 공격력이 좋고, 샬럿은 수비에 약점이 있습니다.",
+          "confidence": 65
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "6",
+        "matchNumber": 6,
+        "league": "기아센터",
+        "homeTeam": "올랜매직",
+        "awayTeam": "밀워벅스",
+        "datetime": "26.02.12 (목) 09:00",
+        "venue": "기아센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "100-109",
+          "reason": "밀워키는 홈에서 강하며, 올랜도는 최근 기복이 심합니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "7",
+        "matchNumber": 7,
+        "league": "바클레이스센터",
+        "homeTeam": "브루네츠",
+        "awayTeam": "인디페이",
+        "datetime": "26.02.12 (목) 09:30",
+        "venue": "바클레이스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "102-110",
+          "reason": "인디애나는 꾸준한 경기력을 보이며, 브루클린은 원정에서 약합니다.",
           "confidence": 60
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "8",
+        "matchNumber": 8,
+        "league": "엑스피니티모바일아레나",
+        "homeTeam": "필라76s",
+        "awayTeam": "뉴욕닉스",
+        "datetime": "26.02.12 (목) 09:30",
+        "venue": "엑스피니티모바일아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-112",
+          "reason": "뉴욕은 홈에서 강하고, 필라델피아는 최근 원정 부진을 겪고 있습니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
       {
         "id": "9",
         "matchNumber": 9,
-        "league": "페이컴센터",
-        "homeTeam": "오클썬더",
-        "awayTeam": "휴스로케",
-        "datetime": "26.02.08 (일) 05:30",
-        "venue": "페이컴센터",
+        "league": "스코샤뱅크아레나",
+        "homeTeam": "토론랩터",
+        "awayTeam": "디트피스",
+        "datetime": "26.02.12 (목) 09:30",
+        "venue": "스코샤뱅크아레나",
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "118-110",
-          "reason": "오클라호마 시티 썬더의 젊은 패기와 홈에서의 강점",
+          "score": "115-105",
+          "reason": "토론토는 홈에서 강한 모습을 보이며, 디트로이트는 최하위권입니다.",
           "confidence": 80
         },
         "status": "scheduled"
@@ -474,84 +167,84 @@
       {
         "id": "10",
         "matchNumber": 10,
-        "league": "프로스트뱅크센터",
-        "homeTeam": "샌안스퍼",
-        "awayTeam": "댈러매버",
-        "datetime": "26.02.08 (일) 08:00",
-        "venue": "프로스트뱅크센터",
+        "league": "타깃센터",
+        "homeTeam": "미네울브",
+        "awayTeam": "포틀트레",
+        "datetime": "26.02.12 (목) 10:00",
+        "venue": "타깃센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "패",
-          "score": "110-120",
-          "reason": "댈러스 매버릭스의 공격력과 샌안토니오 스퍼스의 수비 불안",
-          "confidence": 75
+          "pick": "승",
+          "score": "118-108",
+          "reason": "미네소타는 홈에서 강력하며, 포틀랜드는 전력 누수가 많습니다.",
+          "confidence": 85
         },
         "status": "scheduled"
       },
       {
         "id": "11",
         "matchNumber": 11,
-        "league": "스테이트팜아레나",
-        "homeTeam": "애틀호크",
-        "awayTeam": "샬럿호네",
-        "datetime": "26.02.08 (일) 09:30",
-        "venue": "스테이트팜아레나",
+        "league": "스무디킹센터",
+        "homeTeam": "뉴올펠리",
+        "awayTeam": "마이히트",
+        "datetime": "26.02.12 (목) 10:00",
+        "venue": "스무디킹센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "승",
-          "score": "112-105",
-          "reason": "애틀랜타 호크스의 홈 경기 이점과 최근 득점력",
-          "confidence": 70
+          "pick": "패",
+          "score": "100-107",
+          "reason": "마이애미는 조직력이 좋고, 뉴올리언스는 최근 홈에서 약합니다.",
+          "confidence": 65
         },
         "status": "scheduled"
       },
       {
         "id": "12",
         "matchNumber": 12,
-        "league": "유나이티드센터",
-        "homeTeam": "시카불스",
-        "awayTeam": "덴버너게",
-        "datetime": "26.02.08 (일) 10:00",
-        "venue": "유나이티드센터",
+        "league": "델타센터",
+        "homeTeam": "유타재즈",
+        "awayTeam": "새크킹스",
+        "datetime": "26.02.12 (목) 11:00",
+        "venue": "델타센터",
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "100-112",
-          "reason": "덴버 너기츠의 꾸준한 경기력과 시카고 불스의 기복",
-          "confidence": 75
+          "score": "105-110",
+          "reason": "새크라멘토는 공격력이 좋고, 유타는 홈에서도 기복이 있습니다.",
+          "confidence": 60
         },
         "status": "scheduled"
       },
       {
         "id": "13",
         "matchNumber": 13,
-        "league": "크립토닷컴아레나",
-        "homeTeam": "LA레이커",
-        "awayTeam": "골든워리",
-        "datetime": "26.02.08 (일) 10:30",
-        "venue": "크립토닷컴아레나",
+        "league": "볼아레나",
+        "homeTeam": "덴버너게",
+        "awayTeam": "멤피그리",
+        "datetime": "26.02.12 (목) 11:00",
+        "venue": "볼아레나",
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "118-115",
-          "reason": "LA 레이커스의 홈 경기 분위기와 스타 플레이어들의 집중력",
-          "confidence": 85
+          "score": "115-100",
+          "reason": "덴버는 홈 강세를 유지하고 있으며, 멤피스는 최근 연패 중입니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
       {
         "id": "14",
         "matchNumber": 14,
-        "league": "모기지매치업센터",
-        "homeTeam": "피닉선즈",
-        "awayTeam": "필라76s",
-        "datetime": "26.02.08 (일) 11:00",
-        "venue": "모기지매치업센터",
+        "league": "체이스센터",
+        "homeTeam": "골든워리",
+        "awayTeam": "샌안스퍼",
+        "datetime": "26.02.12 (목) 12:00",
+        "venue": "체이스센터",
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "105-110",
-          "reason": "필라델피아 세븐티식서스의 최근 상승세와 피닉스 선즈의 수비 약점",
+          "score": "108-115",
+          "reason": "샌안토니오는 최근 경기력이 좋고, 골든스테이트는 부상자가 많습니다.",
           "confidence": 70
         },
         "status": "scheduled"
