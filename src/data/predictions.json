@@ -7,9 +7,248 @@
     "matches": []
   },
   "basketball": {
-    "round": "농구토토 승5패",
+    "round": "농구토토 승5패 12회차 [02월11일 수요일 마감]",
     "gmId": "G027",
-    "gmTs": "260013",
-    "matches": []
+    "gmTs": "260012",
+    "matches": [
+      {
+        "id": "1",
+        "matchNumber": 1,
+        "league": "도요타센터",
+        "homeTeam": "휴스로케",
+        "awayTeam": "LA클리퍼",
+        "datetime": "26.02.11 (수) 10:00",
+        "venue": "도요타센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-108",
+          "reason": "휴스턴 로케츠는 홈에서 강한 모습을 보이며 LA 클리퍼스를 상대로 승리할 가능성이 높습니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "2",
+        "matchNumber": 2,
+        "league": "모기지매치업센터",
+        "homeTeam": "피닉선즈",
+        "awayTeam": "댈러매버",
+        "datetime": "26.02.11 (수) 11:00",
+        "venue": "모기지매치업센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-118",
+          "reason": "피닉스 선즈는 최근 부진하고 있으며, 댈러스 매버릭스의 공격력을 막아내기 어려울 것으로 보입니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "3",
+        "matchNumber": 3,
+        "league": "크립토닷컴아레나",
+        "homeTeam": "LA레이커",
+        "awayTeam": "샌안스퍼",
+        "datetime": "26.02.11 (수) 12:30",
+        "venue": "크립토닷컴아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "112-105",
+          "reason": "LA 레이커스는 홈 이점을 살려 샌안토니오 스퍼스를 상대로 승리를 거둘 것으로 예상됩니다.",
+          "confidence": 78
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "4",
+        "matchNumber": 4,
+        "league": "잠실학생체육관",
+        "homeTeam": "서울SK",
+        "awayTeam": "고양소노",
+        "datetime": "26.02.11 (수) 19:00",
+        "venue": "잠실학생체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "85-80",
+          "reason": "서울 SK 나이츠는 홈에서 안정적인 경기력을 보여주며 고양 소노 스카이거너스를 상대로 승리할 것입니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "5",
+        "matchNumber": 5,
+        "league": "스펙트럼센터",
+        "homeTeam": "샬럿호네",
+        "awayTeam": "애틀호크",
+        "datetime": "26.02.12 (목) 09:00",
+        "venue": "스펙트럼센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "샬럿 호네츠는 최근 경기력이 좋지 않으며, 애틀랜타 호크스의 공격력에 밀릴 가능성이 있습니다.",
+          "confidence": 65
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "6",
+        "matchNumber": 6,
+        "league": "기아센터",
+        "homeTeam": "올랜매직",
+        "awayTeam": "밀워벅스",
+        "datetime": "26.02.12 (목) 09:00",
+        "venue": "기아센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "102-110",
+          "reason": "올랜도 매직은 최근 연패 중이며, 밀워키 벅스의 강력한 전력을 상대로 승리를 장담하기 어렵습니다.",
+          "confidence": 72
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "7",
+        "matchNumber": 7,
+        "league": "바클레이스센터",
+        "homeTeam": "브루네츠",
+        "awayTeam": "인디페이",
+        "datetime": "26.02.12 (목) 09:30",
+        "venue": "바클레이스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-103",
+          "reason": "브루클린 네츠는 홈에서 반등을 노리며 인디애나 페이서스를 상대로 승리할 것으로 보입니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "8",
+        "matchNumber": 8,
+        "league": "엑스피니티모바일아레나",
+        "homeTeam": "필라76s",
+        "awayTeam": "뉴욕닉스",
+        "datetime": "26.02.12 (목) 09:30",
+        "venue": "엑스피니티모바일아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "100-108",
+          "reason": "필라델피아 76ers는 홈에서 강하지만, 뉴욕 닉스의 조직력과 수비를 뚫기 어려울 수 있습니다.",
+          "confidence": 73
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "9",
+        "matchNumber": 9,
+        "league": "스코샤뱅크아레나",
+        "homeTeam": "토론랩터",
+        "awayTeam": "디트피스",
+        "datetime": "26.02.12 (목) 09:30",
+        "venue": "스코샤뱅크아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-105",
+          "reason": "토론토 랩터스는 홈에서 좋은 흐름을 이어가며 디트로이트 피스톤스를 상대로 승리할 것입니다.",
+          "confidence": 82
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "10",
+        "matchNumber": 10,
+        "league": "타깃센터",
+        "homeTeam": "미네울브",
+        "awayTeam": "포틀트레",
+        "datetime": "26.02.12 (목) 10:00",
+        "venue": "타깃센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-100",
+          "reason": "미네소타 팀버울브스는 홈에서 압도적인 경기력을 보여주며 포틀랜드 트레일 블레이저스를 상대로 대승을 거둘 것입니다.",
+          "confidence": 85
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "11",
+        "matchNumber": 11,
+        "league": "스무디킹센터",
+        "homeTeam": "뉴올펠리",
+        "awayTeam": "마이히트",
+        "datetime": "26.02.12 (목) 10:00",
+        "venue": "스무디킹센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "103-112",
+          "reason": "뉴올리언스 펠리컨스는 최근 기복이 심하며, 마이애미 히트의 끈끈한 수비에 고전할 가능성이 있습니다.",
+          "confidence": 68
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "12",
+        "matchNumber": 12,
+        "league": "델타센터",
+        "homeTeam": "유타재즈",
+        "awayTeam": "새크킹스",
+        "datetime": "26.02.12 (목) 11:00",
+        "venue": "델타센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-110",
+          "reason": "유타 재즈는 홈에서 승률이 낮고, 새크라멘토 킹스의 빠른 공수 전환에 약점을 보일 수 있습니다.",
+          "confidence": 67
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "13",
+        "matchNumber": 13,
+        "league": "볼아레나",
+        "homeTeam": "덴버너게",
+        "awayTeam": "멤피그리",
+        "datetime": "26.02.12 (목) 11:00",
+        "venue": "볼아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-108",
+          "reason": "덴버 너기츠는 홈에서 강력하며, 멤피스 그리즐리스의 부상 이탈자 공백을 파고들 것입니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "14",
+        "matchNumber": 14,
+        "league": "체이스센터",
+        "homeTeam": "골든워리",
+        "awayTeam": "샌안스퍼",
+        "datetime": "26.02.12 (목) 12:00",
+        "venue": "체이스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "골든스테이트 워리어스는 최근 홈 경기력이 좋지 않으며, 샌안토니오 스퍼스의 조직적인 플레이에 밀릴 수 있습니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      }
+    ]
   }
 }
