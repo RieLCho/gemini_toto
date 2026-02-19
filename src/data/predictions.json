@@ -7,9 +7,248 @@
     "matches": []
   },
   "basketball": {
-    "round": "농구토토 승5패",
+    "round": "농구토토 승5패 15회차 [03월01일 일요일 마감]",
     "gmId": "G027",
     "gmTs": "260015",
-    "matches": []
+    "matches": [
+      {
+        "id": "1",
+        "matchNumber": 1,
+        "league": "캐피탈원아레나",
+        "homeTeam": "워싱위저",
+        "awayTeam": "토론랩터",
+        "datetime": "26.03.01 (일) 09:00",
+        "venue": "캐피탈원아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "112-105",
+          "reason": "홈 이점을 가진 위저즈의 최근 상승세가 예상됩니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "2",
+        "matchNumber": 2,
+        "league": "체이스센터",
+        "homeTeam": "골든워리",
+        "awayTeam": "LA레이커",
+        "datetime": "26.03.01 (일) 10:30",
+        "venue": "체이스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-115",
+          "reason": "커리의 부상 공백과 레이커스의 최근 집중력이 더 높습니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "3",
+        "matchNumber": 3,
+        "league": "델타센터",
+        "homeTeam": "유타재즈",
+        "awayTeam": "뉴올펠리",
+        "datetime": "26.03.01 (일) 11:30",
+        "venue": "델타센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-108",
+          "reason": "홈에서 강한 재즈의 조직력이 돋보일 것입니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "4",
+        "matchNumber": 4,
+        "league": "매디슨스퀘어가든",
+        "homeTeam": "뉴욕닉스",
+        "awayTeam": "샌안스퍼",
+        "datetime": "26.03.02 (월) 03:00",
+        "venue": "매디슨스퀘어가든",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-102",
+          "reason": "브런슨의 활약과 홈 어드밴티지를 살린 닉스의 승리를 예상합니다.",
+          "confidence": 78
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "5",
+        "matchNumber": 5,
+        "league": "바클레이스센터",
+        "homeTeam": "브루네츠",
+        "awayTeam": "클리캐벌",
+        "datetime": "26.03.02 (월) 05:30",
+        "venue": "바클레이스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-118",
+          "reason": "카와이 레너드 중심의 클리퍼스 공격을 막기 어려울 것입니다.",
+          "confidence": 85
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "6",
+        "matchNumber": 6,
+        "league": "유나이티드센터",
+        "homeTeam": "시카불스",
+        "awayTeam": "밀워벅스",
+        "datetime": "26.03.02 (월) 05:30",
+        "venue": "유나이티드센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-116",
+          "reason": "더 강력한 로스터를 가진 밀워키의 우세가 예상됩니다.",
+          "confidence": 77
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "7",
+        "matchNumber": 7,
+        "league": "볼아레나",
+        "homeTeam": "덴버너게",
+        "awayTeam": "미네울브",
+        "datetime": "26.03.02 (월) 05:30",
+        "venue": "볼아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-110",
+          "reason": "요키치의 지배력과 홈 이점을 가진 너겟츠가 유리합니다.",
+          "confidence": 82
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "8",
+        "matchNumber": 8,
+        "league": "게인브릿지필드하우스",
+        "homeTeam": "인디페이",
+        "awayTeam": "멤피그리",
+        "datetime": "26.03.02 (월) 07:00",
+        "venue": "게인브릿지필드하우스",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-112",
+          "reason": "최근 폼이 좋은 그리즐리스의 기세가 이어질 것입니다.",
+          "confidence": 72
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "9",
+        "matchNumber": 9,
+        "league": "스테이트팜아레나",
+        "homeTeam": "애틀호크",
+        "awayTeam": "포틀트레",
+        "datetime": "26.03.02 (월) 08:00",
+        "venue": "스테이트팜아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-109",
+          "reason": "트레이 영의 공격력과 홈 팬들의 응원이 큰 힘이 될 것입니다.",
+          "confidence": 74
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "10",
+        "matchNumber": 10,
+        "league": "기아센터",
+        "homeTeam": "올랜매직",
+        "awayTeam": "디트피스",
+        "datetime": "26.03.02 (월) 08:00",
+        "venue": "기아센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "102-115",
+          "reason": "올랜도의 상승세와 탄탄한 수비력을 감당하기 어렵습니다.",
+          "confidence": 81
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "11",
+        "matchNumber": 11,
+        "league": "TD가든",
+        "homeTeam": "보스셀틱",
+        "awayTeam": "필라76s",
+        "datetime": "26.03.02 (월) 10:00",
+        "venue": "TD가든",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "116-109",
+          "reason": "홈의 이점을 가진 셀틱스의 전력이 더 강하다고 판단됩니다.",
+          "confidence": 88
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "12",
+        "matchNumber": 12,
+        "league": "아메리칸에어라인스센터",
+        "homeTeam": "댈러매버",
+        "awayTeam": "오클썬더",
+        "datetime": "26.03.02 (월) 10:00",
+        "venue": "아메리칸에어라인스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "112-108",
+          "reason": "루카 돈치치의 뛰어난 활약과 홈 이점으로 승리할 것입니다.",
+          "confidence": 79
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "13",
+        "matchNumber": 13,
+        "league": "인튜이트돔",
+        "homeTeam": "LA클리퍼",
+        "awayTeam": "뉴올펠리",
+        "datetime": "26.03.02 (월) 11:00",
+        "venue": "인튜이트돔",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-114",
+          "reason": "연이은 원정 경기와 상대팀의 최근 흐름이 좋지 않습니다.",
+          "confidence": 76
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "14",
+        "matchNumber": 14,
+        "league": "크립토닷컴아레나",
+        "homeTeam": "LA레이커",
+        "awayTeam": "새크킹스",
+        "datetime": "26.03.02 (월) 11:30",
+        "venue": "크립토닷컴아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-106",
+          "reason": "홈 경기의 이점과 르브론 제임스의 경험치가 승리를 이끌 것입니다.",
+          "confidence": 73
+        },
+        "status": "scheduled"
+      }
+    ]
   }
 }
