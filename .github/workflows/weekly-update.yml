@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
     # 매일 오후 6시 (KST 기준, UTC 09:00) - 저녁 경기 대비
     - cron: '0 9 * * *'
-  workflow_dispatch: # 수동 실행 허용
+  workflow_dispatch:
     inputs:
       force_update:
         description: '강제 업데이트 (기존 예측 덮어쓰기)'
@@ -24,10 +24,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-predictions:
+  update-and-deploy:
     runs-on: ubuntu-latest
-    outputs:
-      has_changes: ${{ steps.check_changes.outputs.has_changes }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
       - name: 📥 Checkout repository
@@ -63,48 +64,25 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run predict
 
-      - name: 📊 Check for changes
-        id: check_changes
-        run: |
-          if git diff --quiet src/data/predictions.json; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "📭 변경사항 없음 - 동일한 회차"
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "📬 새로운 회차 또는 예측 업데이트 감지"
-          fi
-
-      - name: 🏗️ Build project
-        if: steps.check_changes.outputs.has_changes == 'true' || github.event.inputs.force_update == 'true'
-        run: npm run build
-
       - name: 📝 Commit updated predictions
-        if: steps.check_changes.outputs.has_changes == 'true' || github.event.inputs.force_update == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add src/data/predictions.json
-          git diff --staged --quiet || git commit -m "[웹개발유닛][chore] (prediction): 예측 데이터 자동 업데이트
+          git diff --staged --quiet || git commit -m "[웹개발유닛][chore] (prediction): 예측 데이터 자동 업데이트 [skip ci]
 
           - 축구토토/농구토토 경기 일정 크롤링
           - Gemini AI 예측 생성"
-          git push
+          git push || true
+
+      - name: 🏗️ Build project
+        run: npm run build
 
       - name: 📤 Upload artifact for Pages
-        if: steps.check_changes.outputs.has_changes == 'true' || github.event.inputs.force_update == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
 
-  deploy:
-    needs: update-predictions
-    if: needs.update-predictions.outputs.has_changes == 'true' || github.event.inputs.force_update == 'true'
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    
-    steps:
       - name: 🚀 Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
