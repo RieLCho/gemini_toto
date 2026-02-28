@@ -23,8 +23,8 @@
         "prediction": {
           "pick": "패",
           "score": "105-118",
-          "reason": "샬럿의 최근 부진과 마이애미의 탄탄한 수비력을 고려했습니다.",
-          "confidence": 70
+          "reason": "샬럿은 최근 폼이 좋지 않고, 마이애미의 수비가 강함.",
+          "confidence": 65
         },
         "status": "scheduled"
       },
@@ -39,9 +39,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "112-108",
-          "reason": "휴스턴의 최근 공격력이 살아났고, 포틀랜드는 원정에서 약합니다.",
-          "confidence": 65
+          "score": "115-108",
+          "reason": "휴스턴은 홈에서 강한 모습을 보이며, 포틀랜드는 원정 약세.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -56,9 +56,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "125-115",
-          "reason": "덴버의 홈 강세와 니콜라 요키치의 꾸준함을 믿었습니다.",
-          "confidence": 85
+          "score": "120-112",
+          "reason": "덴버는 홈 강점이 뚜렷하고, 니콜라 요키치의 활약 기대.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -73,9 +73,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "120-110",
-          "reason": "피닉스의 주전 선수들 컨디션이 좋고, 뉴올리언스의 수비에 약점이 있습니다.",
-          "confidence": 75
+          "score": "118-109",
+          "reason": "피닉스는 홈에서 공격력이 좋고, 뉴올리언스는 백투백 일정.",
+          "confidence": 68
         },
         "status": "scheduled"
       },
@@ -91,8 +91,8 @@
         "prediction": {
           "pick": "패",
           "score": "108-115",
-          "reason": "샌안토니오의 젊은 팀으로서 경험 부족과 클리퍼스의 강력한 공격력을 고려했습니다.",
-          "confidence": 60
+          "reason": "샌안토니오는 전력 누수가 많고, 클리퍼스의 공격력이 우세.",
+          "confidence": 62
         },
         "status": "scheduled"
       },
@@ -108,8 +108,8 @@
         "prediction": {
           "pick": "패",
           "score": "110-122",
-          "reason": "레이커스의 최근 경기력이 불안정하고, 인디애나의 빠른 템포에 고전할 것으로 보입니다.",
-          "confidence": 65
+          "reason": "레이커스는 최근 부진하며, 인디애나의 빠른 템포에 고전 예상.",
+          "confidence": 58
         },
         "status": "scheduled"
       },
@@ -124,9 +124,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "88-82",
-          "reason": "원주DB의 홈 이점과 안정적인 경기 운영 능력을 높게 평가했습니다.",
-          "confidence": 70
+          "score": "85-78",
+          "reason": "DB는 홈에서 강하고, 소노는 최근 경기력이 기복 있음.",
+          "confidence": 72
         },
         "status": "scheduled"
       },
@@ -141,9 +141,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "78-85",
-          "reason": "부산 KCC의 최근 상승세와 서울 삼성의 부진을 고려했습니다.",
-          "confidence": 75
+          "score": "75-88",
+          "reason": "KCC의 최근 상승세가 무섭고, 삼성은 홈에서도 불안함.",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -158,9 +158,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "92-80",
-          "reason": "안양 정관장의 홈 경기력과 외국 선수들의 활약을 기대합니다.",
-          "confidence": 80
+          "score": "82-75",
+          "reason": "정관장은 홈에서 안정적인 경기력을 보이며, 가스공사는 원정 약세.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -175,9 +175,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "115-105",
-          "reason": "미네소타의 탄탄한 수비와 홈 이점을 고려했습니다.",
-          "confidence": 70
+          "score": "115-108",
+          "reason": "미네소타는 홈에서 강력하고, 올랜도는 최근 원정 성적 부진.",
+          "confidence": 73
         },
         "status": "scheduled"
       },
@@ -192,9 +192,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "110-120",
-          "reason": "필라델피아의 최근 득점력이 좋고, 애틀랜타는 수비에 약점을 보입니다.",
-          "confidence": 65
+          "score": "112-120",
+          "reason": "필라델피아는 홈에서 강하고, 애틀랜타는 최근 수비 불안.",
+          "confidence": 66
         },
         "status": "scheduled"
       },
@@ -209,8 +209,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "112-125",
-          "reason": "LA 클리퍼스의 강력한 공격력과 멤피스의 불안정한 경기력을 고려했습니다.",
+          "score": "108-116",
+          "reason": "클리퍼스는 주전 선수들의 결정력이 좋고, 멤피스는 부상자 많음.",
           "confidence": 60
         },
         "status": "scheduled"
@@ -226,9 +226,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "120-112",
-          "reason": "밀워키의 공격력이 우수하고, 야니스 아데토쿤보의 활약을 기대합니다.",
-          "confidence": 75
+          "score": "125-115",
+          "reason": "밀워키는 홈에서 공격력이 폭발적이며, 야니스 아데토쿤보 활약 기대.",
+          "confidence": 76
         },
         "status": "scheduled"
       },
@@ -244,8 +244,8 @@
         "prediction": {
           "pick": "승",
           "score": "118-110",
-          "reason": "오클라호마시티의 젊고 빠른 팀 컬러와 골든스테이트의 원정 약세를 고려했습니다.",
-          "confidence": 70
+          "reason": "오클라호마는 홈에서 안정적이고, 골든스테이트는 원정 약세.",
+          "confidence": 69
         },
         "status": "scheduled"
       },
@@ -260,9 +260,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "122-115",
-          "reason": "보스턴의 압도적인 홈 강세와 팀 조직력을 믿었습니다.",
-          "confidence": 85
+          "score": "122-114",
+          "reason": "보스턴은 홈에서 압도적이며, 댈러스의 수비에 대한 불안감.",
+          "confidence": 77
         },
         "status": "scheduled"
       },
@@ -278,8 +278,8 @@
         "prediction": {
           "pick": "패",
           "score": "105-118",
-          "reason": "디트로이트의 최근 경기력이 좋지 않고, 브루클린의 짜임새 있는 공격을 막기 어렵습니다.",
-          "confidence": 60
+          "reason": "디트로이트는 최근 부진이 심각하고, 브루클린의 조직력 우위.",
+          "confidence": 55
         },
         "status": "scheduled"
       }
