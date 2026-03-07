@@ -23,7 +23,7 @@
         "prediction": {
           "pick": "패",
           "score": "105-118",
-          "reason": "토론토의 최근 경기력이 좋지 않고, 피닉스의 공격력이 강점.",
+          "reason": "홈팀 토론토는 최근 부진하며, 피닉스의 공격력이 우위에 있습니다.",
           "confidence": 75
         },
         "status": "scheduled"
@@ -39,8 +39,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "110-103",
-          "reason": "홈 이점을 가진 댈러스의 최근 상승세와 클리블랜드의 원정 부담.",
+          "score": "112-108",
+          "reason": "댈러스는 홈 이점을 살려 클리블랜드의 수비를 공략할 것입니다.",
           "confidence": 70
         },
         "status": "scheduled"
@@ -56,9 +56,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "115-108",
-          "reason": "휴스턴의 홈 경기력과 뉴올리언스의 부상자 발생 가능성.",
-          "confidence": 65
+          "score": "115-109",
+          "reason": "휴스턴은 홈에서 상승세를 타고 있으며, 뉴올리언스의 최근 경기력이 불안합니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -73,9 +73,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "120-112",
-          "reason": "골든스테이트의 홈 강점과 미네소타의 최근 연승 부담.",
-          "confidence": 80
+          "score": "120-115",
+          "reason": "골든스테이트는 홈에서 강한 모습을 보이며, 미네소타의 수비 약점을 파고들 것입니다.",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -90,9 +90,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "108-115",
-          "reason": "포틀랜드의 전력 누수와 유타의 반격 가능성.",
-          "confidence": 60
+          "score": "108-116",
+          "reason": "유타의 최근 상승세와 포틀랜드의 부상자 이탈로 원정팀이 유리합니다.",
+          "confidence": 72
         },
         "status": "scheduled"
       },
@@ -107,9 +107,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "112-106",
-          "reason": "LA 클리퍼스의 안정적인 경기력과 시카고의 원정 약점.",
-          "confidence": 78
+          "score": "118-110",
+          "reason": "LA 클리퍼스는 홈에서 강력하며, 시카고의 원정 약점을 이용할 것입니다.",
+          "confidence": 85
         },
         "status": "scheduled"
       },
@@ -123,9 +123,9 @@
         "venue": "수원KT소닉붐아레나",
         "gameType": "basketball",
         "prediction": {
-          "pick": "승",
-          "score": "85-78",
-          "reason": "KT의 홈 이점과 최근 상승세, 서울SK의 원정 부담.",
+          "pick": "패",
+          "score": "85-92",
+          "reason": "최근 흐름이 좋은 서울 SK가 원정 KT를 상대로 승리할 가능성이 높습니다.",
           "confidence": 70
         },
         "status": "scheduled"
@@ -140,10 +140,10 @@
         "venue": "부산사직실내체육관",
         "gameType": "basketball",
         "prediction": {
-          "pick": "패",
-          "score": "82-88",
-          "reason": "안양 정관장의 안정적인 경기력과 부산 KCC의 원정 부담.",
-          "confidence": 65
+          "pick": "승",
+          "score": "90-88",
+          "reason": "홈 이점과 최근 경기력을 고려할 때 부산 KCC의 승리가 예상됩니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -158,8 +158,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "79-85",
-          "reason": "울산 모비스의 강팀 면모와 대구 한국가스공사의 기복.",
+          "score": "88-95",
+          "reason": "울산 모비스의 조직력과 높이가 한국가스의 홈 이점을 상쇄할 것입니다.",
           "confidence": 72
         },
         "status": "scheduled"
@@ -175,9 +175,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "118-105",
-          "reason": "필라델피아의 홈 강점과 브루클린의 연패 가능성.",
-          "confidence": 75
+          "score": "116-110",
+          "reason": "필라델피아는 홈에서 안정적인 경기력을 보이며, 브루클린의 기복을 공략할 것입니다.",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -193,7 +193,7 @@
         "prediction": {
           "pick": "패",
           "score": "105-115",
-          "reason": "밀워키의 강력한 공격력과 애틀랜타의 수비 불안.",
+          "reason": "밀워키의 강력한 공격력과 애틀랜타의 수비 불안을 고려할 때 원정팀이 유리합니다.",
           "confidence": 80
         },
         "status": "scheduled"
@@ -209,8 +209,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "110-100",
-          "reason": "샌안토니오의 홈 경기력 반등과 샬럿의 부진.",
+          "score": "110-102",
+          "reason": "샌안토니오는 홈에서 반전을 노리며, 샬럿의 약한 수비를 공략할 것입니다.",
           "confidence": 68
         },
         "status": "scheduled"
@@ -226,9 +226,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "108-102",
-          "reason": "마이애미의 조직력과 올랜도의 기복 있는 경기력.",
-          "confidence": 70
+          "score": "114-108",
+          "reason": "마이애미는 홈에서 강한 모습을 보이며, 올랜도의 수비 집중력 부족을 이용할 것입니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -243,9 +243,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "102-110",
-          "reason": "덴버의 최근 상승세와 LA 레이커스의 홈 경기 부담.",
-          "confidence": 77
+          "score": "108-118",
+          "reason": "덴버의 짜임새 있는 공격과 레이커스의 최근 수비 불안이 겹쳐 원정팀이 유리합니다.",
+          "confidence": 82
         },
         "status": "scheduled"
       },
@@ -261,8 +261,8 @@
         "prediction": {
           "pick": "패",
           "score": "105-118",
-          "reason": "멤피스의 공격력과 디트로이트의 약한 수비.",
-          "confidence": 62
+          "reason": "멤피스는 최근 상승세이며, 디트로이트의 약한 전력을 상대로 승리할 것입니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -278,8 +278,8 @@
         "prediction": {
           "pick": "패",
           "score": "108-115",
-          "reason": "뉴욕의 안정적인 경기력과 인디애나의 원정 약점.",
-          "confidence": 73
+          "reason": "뉴욕은 최근 조직력이 좋으며, 인디애나의 홈 이점을 극복할 것입니다.",
+          "confidence": 78
         },
         "status": "scheduled"
       },
@@ -294,8 +294,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "115-100",
-          "reason": "보스턴의 압도적인 전력과 워싱턴의 부진.",
+          "score": "120-105",
+          "reason": "보스턴은 홈에서 강력하며, 워싱턴의 전력 약점을 압도할 것입니다.",
           "confidence": 85
         },
         "status": "scheduled"
@@ -311,9 +311,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "118-110",
-          "reason": "LA 클리퍼스의 홈 경기력과 새크라멘토의 수비 불안.",
-          "confidence": 76
+          "score": "115-110",
+          "reason": "LA 클리퍼스는 홈에서 연속 경기를 치르지만, 새크라멘토 상대 전적이 좋습니다.",
+          "confidence": 72
         },
         "status": "scheduled"
       }
