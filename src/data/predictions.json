@@ -1,15 +1,254 @@
 {
-  "lastUpdated": "2026-03-11",
+  "lastUpdated": "2026-03-12",
   "soccer": {
     "round": "축구토토 승무패",
     "gmId": "G011",
-    "gmTs": "260020",
+    "gmTs": "260021",
     "matches": []
   },
   "basketball": {
-    "round": "농구토토 승5패",
+    "round": "농구토토 승5패 19회차 [03월13일 금요일 마감]",
     "gmId": "G027",
-    "gmTs": "260020",
-    "matches": []
+    "gmTs": "260019",
+    "matches": [
+      {
+        "id": "1",
+        "matchNumber": 1,
+        "league": "스코샤뱅크아레나",
+        "homeTeam": "토론랩터",
+        "awayTeam": "피닉선즈",
+        "datetime": "26.03.14 (토) 08:30",
+        "venue": "스코샤뱅크아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "홈팀 토론토는 최근 기복이 심하며, 피닉스는 주전 선수들의 활약이 꾸준합니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "2",
+        "matchNumber": 2,
+        "league": "아메리칸에어라인스센터",
+        "homeTeam": "댈러매버",
+        "awayTeam": "클리캐벌",
+        "datetime": "26.03.14 (토) 08:30",
+        "venue": "아메리칸에어라인스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-105",
+          "reason": "홈팀 댈러스는 최근 상승세이고, 카이리 어빙과 루카 돈치치의 득점력이 좋습니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "3",
+        "matchNumber": 3,
+        "league": "도요타센터",
+        "homeTeam": "휴스로케",
+        "awayTeam": "뉴올펠리",
+        "datetime": "26.03.14 (토) 09:00",
+        "venue": "도요타센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-110",
+          "reason": "휴스턴은 홈에서 강한 면모를 보이며, 앨빈 젠트리의 공격 농구가 잘 통하고 있습니다.",
+          "confidence": 65
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "4",
+        "matchNumber": 4,
+        "league": "체이스센터",
+        "homeTeam": "골든워리",
+        "awayTeam": "미네울브",
+        "datetime": "26.03.14 (토) 11:00",
+        "venue": "체이스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "120-115",
+          "reason": "골든스테이트는 홈에서 강하고, 스테판 커리의 득점력이 폭발하고 있습니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "5",
+        "matchNumber": 5,
+        "league": "모다센터",
+        "homeTeam": "포틀트레",
+        "awayTeam": "유타재즈",
+        "datetime": "26.03.14 (토) 11:00",
+        "venue": "모다센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "100-108",
+          "reason": "포틀랜드는 주전 선수들의 부상 이탈이 많아 전력이 약하며, 유타의 조직력이 좋습니다.",
+          "confidence": 60
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "6",
+        "matchNumber": 6,
+        "league": "인튜이트돔",
+        "homeTeam": "LA클리퍼",
+        "awayTeam": "시카불스",
+        "datetime": "26.03.14 (토) 11:30",
+        "venue": "인튜이트돔",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-108",
+          "reason": "LA클리퍼스는 홈 이점을 살리고, 폴 조지와 카와이 레너드의 활약이 기대됩니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "7",
+        "matchNumber": 7,
+        "league": "수원KT소닉붐아레나",
+        "homeTeam": "KT소닉붐",
+        "awayTeam": "서울SK",
+        "datetime": "26.03.14 (토) 14:00",
+        "venue": "수원KT소닉붐아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "80-85",
+          "reason": "홈팀 KT는 최근 경기력이 좋지 않고, 서울SK는 안정적인 경기 운영으로 승리할 것입니다.",
+          "confidence": 65
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "8",
+        "matchNumber": 8,
+        "league": "부산사직실내체육관",
+        "homeTeam": "부산KCC",
+        "awayTeam": "안양정관",
+        "datetime": "26.03.14 (토) 14:00",
+        "venue": "부산사직실내체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "85-90",
+          "reason": "홈팀 부산 KCC는 최근 득점력이 떨어지고, 안양 정관장의 조직력이 우수합니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "9",
+        "matchNumber": 9,
+        "league": "대구실내체육관",
+        "homeTeam": "한국가스",
+        "awayTeam": "울산모비",
+        "datetime": "26.03.14 (토) 16:30",
+        "venue": "대구실내체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "88-95",
+          "reason": "홈팀 한국가스는 최근 연패 중이며, 울산 모비스의 공격력이 더 좋습니다.",
+          "confidence": 60
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "10",
+        "matchNumber": 10,
+        "league": "엑스피니티모바일아레나",
+        "homeTeam": "필라76s",
+        "awayTeam": "브루네츠",
+        "datetime": "26.03.15 (일) 02:00",
+        "venue": "엑스피니티모바일아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "필라델피아는 조엘 엠비드 없이 불안정한 경기력을 보이며, 브루클린의 외곽슛이 위협적입니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "11",
+        "matchNumber": 11,
+        "league": "스테이트팜아레나",
+        "homeTeam": "애틀호크",
+        "awayTeam": "밀워벅스",
+        "datetime": "26.03.15 (일) 04:00",
+        "venue": "스테이트팜아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "110-120",
+          "reason": "밀워키는 야니스 아데토쿤보의 맹활약으로 승리 가능성이 높으며, 홈팀 애틀랜타는 수비에 약점이 있습니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "12",
+        "matchNumber": 12,
+        "league": "프로스트뱅크센터",
+        "homeTeam": "샌안스퍼",
+        "awayTeam": "샬럿호네",
+        "datetime": "26.03.15 (일) 04:30",
+        "venue": "프로스트뱅크센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "112-105",
+          "reason": "샌안토니오는 홈에서 반전을 노리며, 빅터 웸반야마의 활약이 기대됩니다.",
+          "confidence": 65
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "13",
+        "matchNumber": 13,
+        "league": "카세야센터",
+        "homeTeam": "마이히트",
+        "awayTeam": "올랜매직",
+        "datetime": "26.03.15 (일) 09:00",
+        "venue": "카세야센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "108-102",
+          "reason": "마이애미는 홈에서 강하고, 지미 버틀러의 집중력이 살아나고 있습니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "14",
+        "matchNumber": 14,
+        "league": "크립토닷컴아레나",
+        "homeTeam": "LA레이커",
+        "awayTeam": "덴버너게",
+        "datetime": "26.03.15 (일) 09:30",
+        "venue": "크립토닷컴아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-110",
+          "reason": "덴버는 원정에서도 안정적인 경기력을 보여주며, 니콜라 요키치의 활약이 꾸준합니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      }
+    ]
   }
 }
