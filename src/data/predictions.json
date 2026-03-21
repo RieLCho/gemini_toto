@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20",
+  "lastUpdated": "2026-03-21",
   "soccer": {
     "round": "축구토토 승무패",
     "gmId": "G011",
@@ -21,10 +21,10 @@
         "venue": "로켓아레나",
         "gameType": "basketball",
         "prediction": {
-          "pick": "패",
-          "score": "110-105",
-          "reason": "클리블랜드는 주전들의 부상 이탈이 많아 올랜도에게 열세입니다.",
-          "confidence": 70
+          "pick": "승",
+          "score": "115-108",
+          "reason": "홈 이점을 가진 클리블랜드가 최근 좋은 흐름을 이어갈 것입니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -38,10 +38,10 @@
         "venue": "모기지매치업센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "승",
-          "score": "115-110",
-          "reason": "홈 이점을 가진 피닉스가 최근 좋은 폼을 유지하고 있습니다.",
-          "confidence": 75
+          "pick": "패",
+          "score": "105-118",
+          "reason": "원정 경기이며, 덴버의 강력한 홈 경기력을 고려할 때 쉽지 않을 것입니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -56,8 +56,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "88-82",
-          "reason": "서울 SK가 홈에서 고양 소노를 상대로 우위를 점할 것으로 예상됩니다.",
+          "score": "92-85",
+          "reason": "홈에서 강한 서울SK의 경기력과 조직력이 우위를 점할 것입니다.",
           "confidence": 80
         },
         "status": "scheduled"
@@ -73,9 +73,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "108-115",
-          "reason": "애틀랜타의 공격력이 디트로이트의 수비를 뚫을 것으로 보입니다.",
-          "confidence": 65
+          "score": "100-112",
+          "reason": "애틀랜타의 공격력이 디트로이트의 수비를 뚫을 것으로 예상됩니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -90,9 +90,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "112-108",
-          "reason": "인디애나 페이서스가 홈에서 레이커스의 상승세를 막아낼 것입니다.",
-          "confidence": 70
+          "score": "110-102",
+          "reason": "인디애나의 빠른 공수 전환과 홈 이점을 활용하여 승리할 것입니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -108,8 +108,8 @@
         "prediction": {
           "pick": "승",
           "score": "118-110",
-          "reason": "필라델피아가 홈에서 시카고를 상대로 공격적인 경기 운영을 할 것입니다.",
-          "confidence": 75
+          "reason": "필라델피아의 홈 경기력과 엔비디아의 활약을 바탕으로 승리할 것입니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -124,8 +124,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "115-105",
-          "reason": "보스턴 셀틱스는 홈에서 강력하며, 오클라호마의 젊은 팀을 제압할 것입니다.",
+          "score": "115-110",
+          "reason": "보스턴의 탄탄한 조직력과 홈에서의 강점을 바탕으로 승리할 것입니다.",
           "confidence": 85
         },
         "status": "scheduled"
@@ -141,9 +141,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "108-100",
-          "reason": "클리블랜드가 주축 선수들의 복귀로 마이애미를 홈에서 상대할 여력이 생겼습니다.",
-          "confidence": 60
+          "score": "112-105",
+          "reason": "클리블랜드의 홈 경기력과 최근 상승세가 마이애미를 상대로도 통할 것입니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -158,8 +158,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "105-118",
-          "reason": "워싱턴 위저드가 최근 좋은 경기력을 보여주며, 유타에게 승리할 가능성이 있습니다.",
+          "score": "105-115",
+          "reason": "워싱턴의 조직력이 유타의 홈 코트에서 어려움을 겪을 것으로 예상됩니다.",
           "confidence": 65
         },
         "status": "scheduled"
@@ -175,8 +175,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "112-105",
-          "reason": "미네소타 팀버울브스가 홈에서 휴스턴 로키츠를 상대로 승리할 것입니다.",
+          "score": "118-112",
+          "reason": "미네소타의 탄탄한 수비와 공격력을 바탕으로 홈에서 승리할 것입니다.",
           "confidence": 80
         },
         "status": "scheduled"
@@ -192,9 +192,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "110-115",
-          "reason": "댈러스 매버릭스가 돈치치의 활약으로 홈 이점의 덴버를 공략할 수 있습니다.",
-          "confidence": 70
+          "score": "110-118",
+          "reason": "댈러스의 공격력이 덴버의 수비를 공략하며 원정에서 승리할 가능성이 높습니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -209,8 +209,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "118-105",
-          "reason": "골든스테이트 워리어스가 홈에서 브루클린 네츠를 상대로 승리할 것입니다.",
+          "score": "115-108",
+          "reason": "골든스테이트의 홈 경기력과 경험을 바탕으로 승리를 가져갈 것입니다.",
           "confidence": 70
         },
         "status": "scheduled"
@@ -227,8 +227,8 @@
         "prediction": {
           "pick": "패",
           "score": "108-115",
-          "reason": "밀워키 벅스의 강력한 공격력이 포틀랜드 트레일블레이저스를 압도할 것입니다.",
-          "confidence": 85
+          "reason": "밀워키의 공격력이 포틀랜드의 홈에서 더욱 위력을 발휘할 것입니다.",
+          "confidence": 75
         },
         "status": "scheduled"
       },
@@ -243,8 +243,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "115-108",
-          "reason": "LA 클리퍼스가 홈에서 토론토 랩터스를 상대로 짜임새 있는 경기를 펼칠 것입니다.",
+          "score": "112-105",
+          "reason": "LA 클리퍼스의 최근 좋은 흐름과 홈에서의 강점이 승리를 이끌 것입니다.",
           "confidence": 75
         },
         "status": "scheduled"
@@ -260,9 +260,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "110-105",
-          "reason": "뉴욕 닉스가 홈에서 뉴올리언스 펠리컨스를 상대로 접전 끝에 승리할 것입니다.",
-          "confidence": 70
+          "score": "110-102",
+          "reason": "뉴욕의 홈 경기력과 탄탄한 조직력이 뉴올리언스의 공격을 막아낼 것입니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -278,8 +278,8 @@
         "prediction": {
           "pick": "패",
           "score": "105-112",
-          "reason": "샌안토니오 스퍼스가 최근 반등세를 보이며 멤피스 그리즐리스를 꺾을 가능성이 있습니다.",
-          "confidence": 60
+          "reason": "휴스턴의 최근 상승세와 공격력이 멤피스의 홈에서 승리를 거둘 것입니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       }
