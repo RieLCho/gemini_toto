@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24",
+  "lastUpdated": "2026-03-25",
   "soccer": {
     "round": "축구토토 승무패",
     "gmId": "G011",
@@ -7,9 +7,316 @@
     "matches": []
   },
   "basketball": {
-    "round": "농구토토 승5패",
+    "round": "농구토토 승5패 23회차 [03월27일 금요일 마감]",
     "gmId": "G027",
-    "gmTs": "260024",
-    "matches": []
+    "gmTs": "260023",
+    "matches": [
+      {
+        "id": "1",
+        "matchNumber": 1,
+        "league": "TD가든",
+        "homeTeam": "보스셀틱",
+        "awayTeam": "애틀호크",
+        "datetime": "26.03.28 (토) 08:30",
+        "venue": "TD가든",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "120-110",
+          "reason": "보스턴 셀틱스는 홈에서 강력한 경기력을 보이며, 애틀랜타 호크스를 상대로 승리할 가능성이 높습니다.",
+          "confidence": 85
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "2",
+        "matchNumber": 2,
+        "league": "로켓아레나",
+        "homeTeam": "클리캐벌",
+        "awayTeam": "마이히트",
+        "datetime": "26.03.28 (토) 08:30",
+        "venue": "로켓아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "마이애미 히트는 최근 좋은 분위기를 이어가고 있으며, 원정에서 클리블랜드 캐벌리어스를 상대하기 유리합니다.",
+          "confidence": 78
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "3",
+        "matchNumber": 3,
+        "league": "페덱스포럼",
+        "homeTeam": "멤피그리",
+        "awayTeam": "휴스로케",
+        "datetime": "26.03.28 (토) 09:00",
+        "venue": "페덱스포럼",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-105",
+          "reason": "멤피스 그리즐리스는 홈에서의 강점을 바탕으로 휴스턴 로케츠를 상대로 승리를 거둘 것으로 예상됩니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "4",
+        "matchNumber": 4,
+        "league": "스코샤뱅크아레나",
+        "homeTeam": "토론랩터",
+        "awayTeam": "뉴올펠리",
+        "datetime": "26.03.28 (토) 09:30",
+        "venue": "스코샤뱅크아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-118",
+          "reason": "뉴올리언스 펠리컨스는 최근 공격력이 살아났으며, 토론토 랩터스를 상대로 원정 승리를 노릴 것입니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "5",
+        "matchNumber": 5,
+        "league": "볼아레나",
+        "homeTeam": "덴버너게",
+        "awayTeam": "유타재즈",
+        "datetime": "26.03.28 (토) 10:00",
+        "venue": "볼아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-112",
+          "reason": "덴버 너기츠는 홈에서 안정적인 경기력을 보여주며, 유타 재즈를 상대로 유리한 고지를 점할 것입니다.",
+          "confidence": 82
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "6",
+        "matchNumber": 6,
+        "league": "모다센터",
+        "homeTeam": "포틀트레",
+        "awayTeam": "댈러매버",
+        "datetime": "26.03.28 (토) 11:00",
+        "venue": "모다센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "110-120",
+          "reason": "댈러스 매버릭스는 루카 돈치치의 활약을 앞세워 포틀랜드 트레일 블레이저스를 상대로 원정 승리를 거둘 것으로 보입니다.",
+          "confidence": 77
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "7",
+        "matchNumber": 7,
+        "league": "크립토닷컴아레나",
+        "homeTeam": "LA레이커",
+        "awayTeam": "브루네츠",
+        "datetime": "26.03.28 (토) 11:30",
+        "venue": "크립토닷컴아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "112-122",
+          "reason": "브루클린 네츠는 최근 경기력이 좋으며, LA 레이커스를 상대로 이변을 일으킬 가능성이 있습니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "8",
+        "matchNumber": 8,
+        "league": "울산동천체육관",
+        "homeTeam": "울산모비",
+        "awayTeam": "서울SK",
+        "datetime": "26.03.28 (토) 14:00",
+        "venue": "울산동천체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "75-85",
+          "reason": "서울 SK 나이츠는 최근 상승세이며, 울산 모비스를 상대로 원정에서 승리할 확률이 높습니다.",
+          "confidence": 83
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "9",
+        "matchNumber": 9,
+        "league": "고양소노아레나",
+        "homeTeam": "고양소노",
+        "awayTeam": "원주DB",
+        "datetime": "26.03.28 (토) 14:00",
+        "venue": "고양소노아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "88-80",
+          "reason": "고양 소노 챔피언스가 홈에서 강한 면모를 보이며, 원주 DB를 상대로 승리할 것으로 예상됩니다.",
+          "confidence": 81
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "10",
+        "matchNumber": 10,
+        "league": "잠실실내체육관",
+        "homeTeam": "서울삼성",
+        "awayTeam": "안양정관",
+        "datetime": "26.03.28 (토) 16:30",
+        "venue": "잠실실내체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "70-82",
+          "reason": "안양 정관장은 안정적인 전력을 바탕으로 서울 삼성 썬더스를 상대로 원정 승리를 가져갈 것입니다.",
+          "confidence": 79
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "11",
+        "matchNumber": 11,
+        "league": "타깃센터",
+        "homeTeam": "미네울브",
+        "awayTeam": "디트피스",
+        "datetime": "26.03.29 (일) 06:30",
+        "venue": "타깃센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-105",
+          "reason": "미네소타 팀버울브스는 홈에서 강력하며, 디트로이트 피스톤스를 상대로 압도적인 승리를 거둘 것입니다.",
+          "confidence": 88
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "12",
+        "matchNumber": 12,
+        "league": "스펙트럼센터",
+        "homeTeam": "샬럿호네",
+        "awayTeam": "필라76s",
+        "datetime": "26.03.29 (일) 07:00",
+        "venue": "스펙트럼센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-118",
+          "reason": "필라델피아 세븐티식서스는 조엘 엠비드의 활약으로 샬럿 호네츠를 상대로 원정 승리를 노립니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "13",
+        "matchNumber": 13,
+        "league": "페덱스포럼",
+        "homeTeam": "멤피그리",
+        "awayTeam": "시카불스",
+        "datetime": "26.03.29 (일) 09:00",
+        "venue": "페덱스포럼",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-100",
+          "reason": "멤피스 그리즐리스는 홈에서 반등을 노리며, 시카고 불스를 상대로 승리할 가능성이 있습니다.",
+          "confidence": 76
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "14",
+        "matchNumber": 14,
+        "league": "모기지매치업센터",
+        "homeTeam": "피닉선즈",
+        "awayTeam": "유타재즈",
+        "datetime": "26.03.29 (일) 11:00",
+        "venue": "모기지매치업센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "120-115",
+          "reason": "피닉스 선즈는 홈에서 강한 공격력을 보여주며, 유타 재즈를 상대로 접전 끝에 승리할 것으로 예상됩니다.",
+          "confidence": 84
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "15",
+        "matchNumber": 15,
+        "league": "페이컴센터",
+        "homeTeam": "오클썬더",
+        "awayTeam": "시카불스",
+        "datetime": "26.03.28 (토) 09:00",
+        "venue": "페이컴센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "125-115",
+          "reason": "오클라호마 시티 썬더스는 최근 상승세이며, 시카고 불스를 상대로 홈에서 승리를 이어갈 것입니다.",
+          "confidence": 86
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "16",
+        "matchNumber": 16,
+        "league": "체이스센터",
+        "homeTeam": "골든워리",
+        "awayTeam": "워싱위저",
+        "datetime": "26.03.28 (토) 11:00",
+        "venue": "체이스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-110",
+          "reason": "골든스테이트 워리어스는 홈에서 집중력을 발휘하며, 워싱턴 위저즈를 상대로 승리할 것으로 보입니다.",
+          "confidence": 78
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "17",
+        "matchNumber": 17,
+        "league": "파이서브포럼",
+        "homeTeam": "밀워벅스",
+        "awayTeam": "샌안스퍼",
+        "datetime": "26.03.29 (일) 04:00",
+        "venue": "파이서브포럼",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "120-108",
+          "reason": "밀워키 벅스는 강력한 전력을 바탕으로 샌안토니오 스퍼스를 상대로 홈에서 대승을 거둘 것입니다.",
+          "confidence": 87
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "18",
+        "matchNumber": 18,
+        "league": "스테이트팜아레나",
+        "homeTeam": "애틀호크",
+        "awayTeam": "새크킹스",
+        "datetime": "26.03.29 (일) 08:30",
+        "venue": "스테이트팜아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "110-115",
+          "reason": "새크라멘토 킹스는 최근 공격력이 좋으며, 애틀랜타 호크스를 상대로 원정에서 승리를 노릴 것입니다.",
+          "confidence": 73
+        },
+        "status": "scheduled"
+      }
+    ]
   }
 }
