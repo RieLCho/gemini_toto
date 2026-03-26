@@ -7,9 +7,248 @@
     "matches": []
   },
   "basketball": {
-    "round": "농구토토 승5패",
+    "round": "농구토토 승5패 23회차 [03월27일 금요일 마감]",
     "gmId": "G027",
-    "gmTs": "260025",
-    "matches": []
+    "gmTs": "260023",
+    "matches": [
+      {
+        "id": "1",
+        "matchNumber": 1,
+        "league": "TD가든",
+        "homeTeam": "보스셀틱",
+        "awayTeam": "애틀호크",
+        "datetime": "26.03.28 (토) 08:30",
+        "venue": "TD가든",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-105",
+          "reason": "보스턴은 홈 강팀이며, 애틀랜타는 최근 부진하여 전력 차이가 큽니다.",
+          "confidence": 90
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "2",
+        "matchNumber": 2,
+        "league": "로켓아레나",
+        "homeTeam": "클리캐벌",
+        "awayTeam": "마이히트",
+        "datetime": "26.03.28 (토) 08:30",
+        "venue": "로켓아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "클리퍼스는 최근 경기력이 좋지 않고, 휴스턴은 홈에서 강한 모습을 보여줍니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "3",
+        "matchNumber": 3,
+        "league": "페덱스포럼",
+        "homeTeam": "멤피그리",
+        "awayTeam": "휴스로케",
+        "datetime": "26.03.28 (토) 09:00",
+        "venue": "페덱스포럼",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-102",
+          "reason": "멤피스는 홈 이점이 있고, 휴스턴은 백투백 일정으로 인한 피로도가 있습니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "4",
+        "matchNumber": 4,
+        "league": "스코샤뱅크아레나",
+        "homeTeam": "토론랩터",
+        "awayTeam": "뉴올펠리",
+        "datetime": "26.03.28 (토) 09:30",
+        "venue": "스코샤뱅크아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-108",
+          "reason": "토론토는 최근 상승세이며, 뉴올리언스는 원정에서 약한 모습을 보입니다.",
+          "confidence": 78
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "5",
+        "matchNumber": 5,
+        "league": "볼아레나",
+        "homeTeam": "덴버너게",
+        "awayTeam": "유타재즈",
+        "datetime": "26.03.28 (토) 10:00",
+        "venue": "볼아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "120-110",
+          "reason": "덴버는 홈에서 매우 강력하며, 유타는 최근 원정 경기력이 좋지 않습니다.",
+          "confidence": 92
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "6",
+        "matchNumber": 6,
+        "league": "모다센터",
+        "homeTeam": "포틀트레",
+        "awayTeam": "댈러매버",
+        "datetime": "26.03.28 (토) 11:00",
+        "venue": "모다센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-118",
+          "reason": "포틀랜드는 전력이 약하고, 댈러스는 루카 돈치치를 중심으로 강력합니다.",
+          "confidence": 85
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "7",
+        "matchNumber": 7,
+        "league": "크립토닷컴아레나",
+        "homeTeam": "LA레이커",
+        "awayTeam": "브루네츠",
+        "datetime": "26.03.28 (토) 11:30",
+        "venue": "크립토닷컴아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "112-107",
+          "reason": "LA 레이커스는 홈에서 강한 집중력을 보이며, 브루클린은 경기력이 기복 있습니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "8",
+        "matchNumber": 8,
+        "league": "울산동천체육관",
+        "homeTeam": "울산모비",
+        "awayTeam": "서울SK",
+        "datetime": "26.03.28 (토) 14:00",
+        "venue": "울산동천체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "85-95",
+          "reason": "울산 모비스는 최근 연패 중이고, 서울 SK는 조직력이 탄탄합니다.",
+          "confidence": 78
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "9",
+        "matchNumber": 9,
+        "league": "고양소노아레나",
+        "homeTeam": "고양소노",
+        "awayTeam": "원주DB",
+        "datetime": "26.03.28 (토) 14:00",
+        "venue": "고양소노아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "90-85",
+          "reason": "고양 소노는 홈에서 득점력이 좋고, 원주 DB는 수비 조직력이 불안합니다.",
+          "confidence": 72
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "10",
+        "matchNumber": 10,
+        "league": "잠실실내체육관",
+        "homeTeam": "서울삼성",
+        "awayTeam": "안양정관",
+        "datetime": "26.03.28 (토) 16:30",
+        "venue": "잠실실내체육관",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "80-92",
+          "reason": "서울 삼성은 최근 득점력이 저조하고, 안양 정관장은 리그 최강 전력입니다.",
+          "confidence": 95
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "11",
+        "matchNumber": 11,
+        "league": "타깃센터",
+        "homeTeam": "미네울브",
+        "awayTeam": "디트피스",
+        "datetime": "26.03.29 (일) 06:30",
+        "venue": "타깃센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-100",
+          "reason": "미네소타는 홈에서 수비가 강하고, 디트로이트는 최하위권 팀으로 전력 열세입니다.",
+          "confidence": 88
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "12",
+        "matchNumber": 12,
+        "league": "스펙트럼센터",
+        "homeTeam": "샬럿호네",
+        "awayTeam": "필라76s",
+        "datetime": "26.03.29 (일) 07:00",
+        "venue": "스펙트럼센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-118",
+          "reason": "샬럿은 부상자가 많고, 필라델피아는 홈 강점을 바탕으로 승리할 것입니다.",
+          "confidence": 82
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "13",
+        "matchNumber": 13,
+        "league": "페덱스포럼",
+        "homeTeam": "멤피그리",
+        "awayTeam": "시카불스",
+        "datetime": "26.03.29 (일) 09:00",
+        "venue": "페덱스포럼",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "108-100",
+          "reason": "멤피스는 홈에서 투지가 있고, 시카고는 원정 경기력이 좋지 않습니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "14",
+        "matchNumber": 14,
+        "league": "모기지매치업센터",
+        "homeTeam": "피닉선즈",
+        "awayTeam": "유타재즈",
+        "datetime": "26.03.29 (일) 11:00",
+        "venue": "모기지매치업센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-105",
+          "reason": "피닉스는 홈에서 공격력이 폭발하며, 유타는 백투백 일정의 피로가 있습니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      }
+    ]
   }
 }
