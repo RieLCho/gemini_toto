@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03",
+  "lastUpdated": "2026-04-04",
   "soccer": {
     "round": "축구토토 승무패",
     "gmId": "G011",
@@ -23,7 +23,7 @@
         "prediction": {
           "pick": "승",
           "score": "118-105",
-          "reason": "보스턴 셀틱스는 홈에서 강하며, 올랜도 매직 상대로 우세합니다.",
+          "reason": "보스턴 셀틱스는 홈 이점을 살려 올랜도 매직을 상대로 승리할 것입니다.",
           "confidence": 85
         },
         "status": "scheduled"
@@ -39,8 +39,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "110-102",
-          "reason": "인디애나 페이서스는 홈 이점을 살려 디트로이트 피스턴스를 제압할 것입니다.",
+          "score": "115-110",
+          "reason": "인디애나 페이서스는 홈에서 디트로이트 피스톤스를 상대로 우세한 경기력을 보일 것입니다.",
           "confidence": 78
         },
         "status": "scheduled"
@@ -56,8 +56,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "115-108",
-          "reason": "마이애미 히트는 홈에서 애틀랜타 호크스를 상대로 승리를 거둘 가능성이 높습니다.",
+          "score": "110-102",
+          "reason": "마이애미 히트는 홈에서 애틀랜타 호크스를 상대로 승리를 거둘 것으로 예상됩니다.",
           "confidence": 82
         },
         "status": "scheduled"
@@ -73,8 +73,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "109-100",
-          "reason": "뉴욕 닉스는 홈 팬들의 응원을 등에 업고 샬럿 호네츠에게 승리할 것입니다.",
+          "score": "108-99",
+          "reason": "뉴욕 닉스는 홈에서의 강점을 바탕으로 샬럿 호네츠를 꺾을 것입니다.",
           "confidence": 88
         },
         "status": "scheduled"
@@ -90,9 +90,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "102-110",
-          "reason": "밀워키 벅스는 필라델피아 76ers 상대로 원정임에도 불구하고 우세합니다.",
-          "confidence": 80
+          "score": "105-115",
+          "reason": "필라델피아 76스는 조엘 엠비드의 부상 공백으로 밀워키 벅스에게 패할 가능성이 높습니다.",
+          "confidence": 90
         },
         "status": "scheduled"
       },
@@ -107,8 +107,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "112-107",
-          "reason": "토론토 랩터스는 홈에서 브루클린 네츠 상대로 승리할 가능성이 있습니다.",
+          "score": "112-108",
+          "reason": "토론토 랩터스는 홈에서 브루클린 네츠를 상대로 접전 끝에 승리할 것입니다.",
           "confidence": 75
         },
         "status": "scheduled"
@@ -124,9 +124,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "114-109",
-          "reason": "댈러스 매버릭스는 홈에서 시카고 불스를 상대로 승리를 노립니다.",
-          "confidence": 83
+          "score": "116-107",
+          "reason": "댈러스 매버릭스는 홈 이점을 살려 시카고 불스를 상대로 승리할 것으로 보입니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -140,10 +140,10 @@
         "venue": "도요타센터",
         "gameType": "basketball",
         "prediction": {
-          "pick": "승",
-          "score": "116-111",
-          "reason": "휴스턴 로키츠는 홈에서 멤피스 그리즐리스를 상대로 승리할 것입니다.",
-          "confidence": 79
+          "pick": "패",
+          "score": "105-112",
+          "reason": "휴스턴 로키스는 멤피스 그리즐리스의 조직력에 밀려 원정 패배를 당할 수 있습니다.",
+          "confidence": 70
         },
         "status": "scheduled"
       },
@@ -158,9 +158,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "119-113",
-          "reason": "미네소타 팀버울브스는 홈 이점을 살려 뉴올리언스 펠리컨스를 상대합니다.",
-          "confidence": 86
+          "score": "117-111",
+          "reason": "미네소타 팀버울브스는 홈에서 뉴올리언스 펠리컨스를 상대로 승리할 것입니다.",
+          "confidence": 85
         },
         "status": "scheduled"
       },
@@ -175,9 +175,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "108-115",
-          "reason": "피닉스 선즈는 오클라호마 시티 썬더 상대로 우세한 전력을 보여줍니다.",
-          "confidence": 81
+          "score": "108-118",
+          "reason": "오클라호마시티 썬더는 피닉스 선즈의 공격력을 막아내기 어려워 보입니다.",
+          "confidence": 88
         },
         "status": "scheduled"
       },
@@ -192,9 +192,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "105-112",
-          "reason": "덴버 너기츠는 샌안토니오 스퍼스 상대로 원정에서도 강한 면모를 보일 것입니다.",
-          "confidence": 87
+          "score": "102-115",
+          "reason": "덴버 너기츠는 홈 이점이 있는 샌안토니오 스퍼스를 상대로 우위를 점할 것입니다.",
+          "confidence": 82
         },
         "status": "scheduled"
       },
@@ -209,8 +209,8 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "107-113",
-          "reason": "유타 재즈는 LA 레이커스 상대로 원정에서도 충분히 승리할 수 있습니다.",
+          "score": "100-110",
+          "reason": "LA 레이커스는 유타 재즈의 홈 코트에서 고전할 가능성이 높습니다.",
           "confidence": 77
         },
         "status": "scheduled"
@@ -226,9 +226,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "120-115",
-          "reason": "LA 클리퍼스는 홈에서 골든스테이트 워리어스 상대로 승리를 가져갈 것입니다.",
-          "confidence": 84
+          "score": "115-109",
+          "reason": "LA 클리퍼스는 홈에서 골든스테이트 워리어스를 상대로 승리할 것으로 예상됩니다.",
+          "confidence": 80
         },
         "status": "scheduled"
       },
@@ -243,9 +243,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "패",
-          "score": "106-114",
-          "reason": "새크라멘토 킹스는 포틀랜드 트레일블레이저스 상대로 우세합니다.",
-          "confidence": 76
+          "score": "105-114",
+          "reason": "포틀랜드 트레일블레이저스는 새크라멘토 킹스의 공격에 대응하기 어려울 것입니다.",
+          "confidence": 72
         },
         "status": "scheduled"
       },
@@ -260,9 +260,9 @@
         "gameType": "basketball",
         "prediction": {
           "pick": "승",
-          "score": "113-104",
-          "reason": "클리블랜드 캐벌리어스는 홈에서 워싱턴 위저즈에게 승리할 것입니다.",
-          "confidence": 80
+          "score": "110-105",
+          "reason": "클리블랜드 캐벌리어스는 홈에서 워싱턴 위저드를 상대로 승리할 것입니다.",
+          "confidence": 83
         },
         "status": "scheduled"
       }
