@@ -7,9 +7,265 @@
     "matches": []
   },
   "basketball": {
-    "round": "농구토토 승5패",
+    "round": "농구토토 승5패 27회차 [04월12일 일요일 마감]",
     "gmId": "G027",
-    "gmTs": "260028",
-    "matches": []
+    "gmTs": "260027",
+    "matches": [
+      {
+        "id": "1",
+        "matchNumber": 1,
+        "league": "TD가든",
+        "homeTeam": "보스셀틱",
+        "awayTeam": "올랜매직",
+        "datetime": "26.04.13 (월) 07:00",
+        "venue": "TD가든",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-105",
+          "reason": "보스턴 셀틱스는 홈에서 강하며, 올랜도 매직은 원정 경기력이 좋지 않습니다.",
+          "confidence": 85
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "2",
+        "matchNumber": 2,
+        "league": "게인브릿지필드하우스",
+        "homeTeam": "인디페이",
+        "awayTeam": "디트피스",
+        "datetime": "26.04.13 (월) 07:00",
+        "venue": "게인브릿지필드하우스",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-102",
+          "reason": "인디애나 페이서스는 최근 홈 경기력이 좋고, 디트로이트 피스톤스는 전력이 약합니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "3",
+        "matchNumber": 3,
+        "league": "카세야센터",
+        "homeTeam": "마이히트",
+        "awayTeam": "애틀호크",
+        "datetime": "26.04.13 (월) 07:00",
+        "venue": "카세야센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-108",
+          "reason": "마이애미 히트는 홈에서 경쟁력이 있으며, 애틀랜타 호크스는 수비가 불안정합니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "4",
+        "matchNumber": 4,
+        "league": "매디슨스퀘어가든",
+        "homeTeam": "뉴욕닉스",
+        "awayTeam": "샬럿호네",
+        "datetime": "26.04.13 (월) 07:00",
+        "venue": "매디슨스퀘어가든",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "112-100",
+          "reason": "뉴욕 닉스는 홈에서 강하고, 샬럿 호네츠는 최근 연패 중입니다.",
+          "confidence": 88
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "5",
+        "matchNumber": 5,
+        "league": "엑스피니티모바일아레나",
+        "homeTeam": "필라76s",
+        "awayTeam": "밀워벅스",
+        "datetime": "26.04.13 (월) 07:00",
+        "venue": "엑스피니티모바일아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "필라델피아 76스는 엔비이에서 상대적으로 약하고, 밀워키 벅스는 전력이 우세합니다.",
+          "confidence": 82
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "6",
+        "matchNumber": 6,
+        "league": "스코샤뱅크아레나",
+        "homeTeam": "토론랩터",
+        "awayTeam": "브루네츠",
+        "datetime": "26.04.13 (월) 07:00",
+        "venue": "스코샤뱅크아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-100",
+          "reason": "토론토 랩터스는 홈에서 좋은 모습을 보이며, 브루클린 네츠는 최근 기복이 심합니다.",
+          "confidence": 78
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "7",
+        "matchNumber": 7,
+        "league": "아메리칸에어라인스센터",
+        "homeTeam": "댈러매버",
+        "awayTeam": "시카불스",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "아메리칸에어라인스센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "118-108",
+          "reason": "댈러스 매버릭스는 홈에서 강하고, 시카고 불스는 최근 원정 경기력이 좋지 않습니다.",
+          "confidence": 83
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "8",
+        "matchNumber": 8,
+        "league": "도요타센터",
+        "homeTeam": "휴스로케",
+        "awayTeam": "멤피그리",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "도요타센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-112",
+          "reason": "휴스턴 로키스는 최근 기복이 있으며, 멤피스 그리즐리스는 수비가 강합니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "9",
+        "matchNumber": 9,
+        "league": "타깃센터",
+        "homeTeam": "미네울브",
+        "awayTeam": "뉴올펠리",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "타깃센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-105",
+          "reason": "미네소타 팀버울브스는 홈에서 강하고, 뉴올리언스 펠리컨스는 원정에서 다소 약합니다.",
+          "confidence": 85
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "10",
+        "matchNumber": 10,
+        "league": "페이컴센터",
+        "homeTeam": "오클썬더",
+        "awayTeam": "피닉선즈",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "페이컴센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "108-118",
+          "reason": "오클라호마시티 썬더스는 최근 연패 중이고, 피닉스 선즈는 공격력이 강합니다.",
+          "confidence": 77
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "11",
+        "matchNumber": 11,
+        "league": "프로스트뱅크센터",
+        "homeTeam": "샌안스퍼",
+        "awayTeam": "덴버너게",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "프로스트뱅크센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "100-110",
+          "reason": "샌안토니오 스퍼스는 전력이 약하고, 덴버 너기츠는 꾸준한 경기력을 보여줍니다.",
+          "confidence": 72
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "12",
+        "matchNumber": 12,
+        "league": "크립토닷컴아레나",
+        "homeTeam": "LA레이커",
+        "awayTeam": "유타재즈",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "크립토닷컴아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "102-110",
+          "reason": "LA 레이커스는 최근 경기력이 좋지 않고, 유타 재즈는 홈에서 강한 모습을 보입니다.",
+          "confidence": 73
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "13",
+        "matchNumber": 13,
+        "league": "인튜이트돔",
+        "homeTeam": "LA클리퍼",
+        "awayTeam": "골든워리",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "인튜이트돔",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "115-105",
+          "reason": "LA 클리퍼스는 홈에서 경쟁력이 있고, 골든스테이트 워리어스는 원정 경기력이 기복 있습니다.",
+          "confidence": 80
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "14",
+        "matchNumber": 14,
+        "league": "모다센터",
+        "homeTeam": "포틀트레",
+        "awayTeam": "새크킹스",
+        "datetime": "26.04.13 (월) 09:30",
+        "venue": "모다센터",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "패",
+          "score": "105-115",
+          "reason": "포틀랜드 트레일블레이저스는 전력이 약하고, 새크라멘토 킹스는 공격력이 좋습니다.",
+          "confidence": 70
+        },
+        "status": "scheduled"
+      },
+      {
+        "id": "15",
+        "matchNumber": 15,
+        "league": "로켓아레나",
+        "homeTeam": "클리캐벌",
+        "awayTeam": "워싱위저",
+        "datetime": "26.04.13 (월) 07:00",
+        "venue": "로켓아레나",
+        "gameType": "basketball",
+        "prediction": {
+          "pick": "승",
+          "score": "110-100",
+          "reason": "클리블랜드 캐벌리어스는 홈에서 좋은 경기력을 보여주고, 워싱턴 위저즈는 전력이 약합니다.",
+          "confidence": 75
+        },
+        "status": "scheduled"
+      }
+    ]
   }
 }
