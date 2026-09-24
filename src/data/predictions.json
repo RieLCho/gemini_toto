@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-23",
+  "lastUpdated": "2026-09-24",
   "soccer": {
     "round": "축구토토 승무패",
     "gmId": "G011",
-    "gmTs": "260076",
+    "gmTs": "260077",
     "matches": []
   },
   "basketball": {
     "round": "농구토토 승5패",
     "gmId": "G027",
-    "gmTs": "260076",
+    "gmTs": "260077",
     "matches": []
   }
 }
